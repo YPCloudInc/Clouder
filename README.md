@@ -29,7 +29,7 @@ Make sure you have joined these groups on Telegram:
 ## GitLab
 1. Sign in to https://gitops.ypcloud.com with your YP Account
 - Choose "LDAP" login and fill in the user name with your YP account "email" (not "user name");
-- You may encounter "Your account is pending approval from administrator and hence blocked" the first time logging in; ask someone to help accept your approval 
+- You may encounter "Your account is pending approval from administrator and hence blocked" the first time logging in; have an admin to help accept your approval 
 
 2. Have an admin from telegram "Clouder" add you as a Maintainer of the gitops group "[clouder-community](https://gitops.ypcloud.com/clouder/clouder-community)" by sending **the email you registered YP Account** to [Admin](https://t.me/EugeneYip1)
 
