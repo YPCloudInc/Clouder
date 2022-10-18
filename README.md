@@ -31,7 +31,7 @@ Make sure you have joined these YPCloud groups on Telegram:
 - Choose "LDAP" login and fill in the user name with your YP account "email" (not "user name");
 - You may encounter "Your account is pending approval from administrator and hence blocked" the first time logging in; ask someone to help accept your approval 
 
-2. Have an admin from telegram "Clouder" add you as a Maintainer of the gitops group "clouder-community" by sending **the email you registered YP Account** to [Admin](https://t.me/EugeneYip1)
+2. Have an admin from telegram "Clouder" add you as a Maintainer of the gitops group "[clouder-community](https://gitops.ypcloud.com/clouder/clouder-community)" by sending **the email you registered YP Account** to [Admin](https://t.me/EugeneYip1)
 
 3. Create your personal project under clouder-community group by clicking "New Project" 
 > "Create Blank Project", and name it "{Name}", where "{Name}" is your name
@@ -65,3 +65,10 @@ Guidline setting up your working space:
 ### [iBuilder Aimkt Guide](https://hackmd.io/@ypcloud-inc/aim)
 
 <img src="https://i.imgur.com/FTdU6lQ.jpg" width=auto height=450>
+
+---
+###### tags: `Clouder`,`YPCloud` 
+---
+> [YPCloud Inc.](https://www.ypcloud.com)
+> [name=Shin, Allen, Eugene]
+> [time=since 2021]
