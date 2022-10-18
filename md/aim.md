@@ -4,7 +4,7 @@ Get started with AI Marketplace!
 
 GitBook Handbook: http://203.145.214.235:4000/
 
-Model Training Example: [Link](https://hackmd.io/@ypcloud-inc/aim_model_example)
+Model Training Example: [Link](md/aim_model_example.md)
 
 ## What is AI Marketplace
 AI Marketplace is an online platform for training, purchasing, and using AI models on the TWCC cloud. 
