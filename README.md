@@ -24,7 +24,7 @@ Guidline setting up your working space:
 - [Twin Clocking Tutorial](md/twin.md)
 - [Chatbot Tutorial](md/chatbot.md)  
 
-### [iBuilder AI Market Guide](md/git-clone.md)
+### [iBuilder AI Market Guide](md/aim.md)
 
 <img src="https://i.imgur.com/FTdU6lQ.jpg" width=auto height=450>
 
