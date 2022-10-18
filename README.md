@@ -31,7 +31,7 @@ Make sure you have joined these YPCloud groups on Telegram:
 - Choose "LDAP" login and fill in the user name with your YP account "email" (not "user name");
 - You may encounter "Your account is pending approval from administrator and hence blocked" the first time logging in; ask someone to help accept your approval 
 
-2. Have an admin from telegram "Clouder" add you as a Maintainer of the gitops group "clouder-community" by replying to the welcome message
+2. Have an admin from telegram "Clouder" add you as a Maintainer of the gitops group "clouder-community" by replying **the email you registered YP Account** to the welcome message
 
 3. Create your personal project under clouder-community group by clicking "New Project" 
 > "Create Blank Project", and name it "{Name}", where "{Name}" is your name
