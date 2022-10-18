@@ -1,10 +1,9 @@
 # Setting Up (Welcome to YP)
-## [HackMD](https://hackmd.io/@ypcloud-inc/hi-clouders)
 
 ### | Telegram
 This is the app where YP host all the communication and updates,
 make sure you have joined these YPCloud groups on Telegram:
-* [YPCloud Community](https://t.me/ypcloudcommunity)
+* [Clouder](https://t.me/clouder_open)
 * [clockin://open](https://t.me/clockin_open)
 * [JujueBot-open](https://t.me/jujuebot_open)
 
