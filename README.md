@@ -6,7 +6,7 @@ Let's start from setting up your working space.
 
 ## Telegram
 This is the app where YP host all the communication and updates,
-Make sure you have joined these YPCloud groups on Telegram:
+Make sure you have joined these groups on Telegram:
 * [Clouder](https://t.me/clouder_open)
 * [clockin://open](https://t.me/clockin_open)
 * [JujueBot-open](https://t.me/jujuebot_open)
