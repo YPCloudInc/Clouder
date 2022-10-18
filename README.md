@@ -10,7 +10,7 @@
 Here's what you should do to get started. 
 Guidline setting up your working space:
 
-### [Setting Up (Telegram, YP Account, GitLab)](md/Setting Up.md)
+### [Setting Up (Telegram, YP Account, GitLab)](md/Setting%20Up.md)
 ### [Gitops Basic (clone push pull)](md/git-clone.md)
 
 # Builders Guide
