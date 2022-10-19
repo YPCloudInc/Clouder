@@ -36,7 +36,7 @@ make sure you have joined these YPCloud groups on Telegram:
 ![](https://i.imgur.com/H4ZX5na.png)
 
 * Reminders: 
-    * Ask an admin to add you to the Gitlab group "clouder-md" for more docs
+    * Visit "[Digitor](https://gitops.ypcloud.com/clouder/clouder-community/digitor/)" for more docs
     * Your code and other resources you develop will be stored in Gitops
     * Markdown Syntax Guide: 
     * - https://www.markdownguide.org/basic-syntax/ <br> 中文: https://markdown.tw/ 
