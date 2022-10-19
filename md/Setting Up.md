@@ -13,7 +13,7 @@ make sure you have joined these YPCloud groups on Telegram:
 * Create a YP Account:
     1. Head to [account.ypcloud.com](https://account.ypcloud.com/#/login)
     2. Click on "Sign Up" and create your username and password
-    (It is an option to sign up with your 3rd party Gmail / Facebook / Telegram)
+     > It is an option to sign up with your 3rd party Gmail / Facebook / Telegram
     3. By choosing one of the third party login methods above, you would need to  click "change password" to fully bind the account
     <img src="https://i.imgur.com/TAbqWvv.png" width=300 height=300>
     
