@@ -21,7 +21,7 @@ make sure you have joined these YPCloud groups on Telegram:
     5. Head to [Jujue Browser](https://jujue.app/browser)
     6. Click the App Launcher button ![](https://i.imgur.com/3eNN7Er.png) on the top right corner
     7. Now you can use your account to access GitLab, fBuilder, jBuilder, etc.
-<br>※ Access fBuilder, jBuilder through "[Run](https://run.ypcloud.com)"
+    > Access fBuilder, jBuilder through "[Run](https://run.ypcloud.com)"
 
 ## GitLab
 1. Sign in to https://gitops.ypcloud.com with your YP Account
