@@ -21,14 +21,14 @@ make sure you have joined these YPCloud groups on Telegram:
     5. Head to [Jujue Browser](https://jujue.app/browser)
     6. Click the App Launcher button ![](https://i.imgur.com/3eNN7Er.png) on the top right corner
     7. Now you can use your account to access GitLab, fBuilder, jBuilder, etc.
-<br>※ Access fBuilder, jBuilder through "Run"
+<br>※ Access fBuilder, jBuilder through "[Run](https://run.ypcloud.com)"
 
 ## GitLab
 1. Sign in to https://gitops.ypcloud.com with your YP Account
 - Choose "LDAP" login and fill in the user name with your YP account "email" (not "user name");
-- You may encounter "Your account is pending approval from administrator and hence blocked" the first time logging in; ask someone to help accept your approval 
+- You may encounter "Your account is pending approval from administrator and hence blocked" the first time logging in; have an admin to help accept your approval 
 
-2. Have an admin from telegram "YPCloud Community" add you as a Maintainer of the gitops group "clouder-community"
+2. Have an admin from telegram "Clouder" add you as a Maintainer of the gitops group "[clouder-community](https://gitops.ypcloud.com/clouder/clouder-community)" by sending **the email you registered YP Account** to [Admin](https://t.me/EugeneYip1)
 
 3. Create your personal project under clouder-community group by clicking "New Project" -> "Create Blank Project", and name it "{Name}", where "{Name}" is your name
 * Keep your project private
