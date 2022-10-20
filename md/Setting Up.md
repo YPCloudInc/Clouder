@@ -1,4 +1,4 @@
-# Setting Up (Welcome to YP)
+# Setting Up (Telegram, YP Account, GitLab)
 
 ### | Telegram
 This is the app where YP host all the communication and updates,
@@ -23,25 +23,24 @@ This is the app where YP host all the communication and updates,
     7. Now you can use your account to access GitLab, fBuilder, jBuilder, etc.
     > Access fBuilder, jBuilder through "[Run](https://run.ypcloud.com)"
 
-## GitHub
-1. Sign up a [GitHub](https://github.com/) Account
+## GitLab
+1. Sign up a [GitLab](https://gitlab.com/) Account
 
 ---
-2. Create a new repository by clicking "New", and name it "Clouder"
-
-![](https://user-images.githubusercontent.com/116076967/196869079-d4530192-f94f-4b21-b71a-b1f82c982778.png)
+2. Create a new repository by clicking "Create a project", "Create blank project" and name it "Clouder"
 
 * Keep your project private
-* Please remember to tick "Add a README file" when createing 
 
-![](https://user-images.githubusercontent.com/116076967/196886092-a4169a56-e0db-4176-a7cc-6e3b5bf95bdb.png)
+* Please remember to tick "Initialize repository with a README" when createing 
+
+![](https://user-images.githubusercontent.com/116076967/197028684-6b8b8c84-8417-40ee-a4c2-75c2004949d6.png)
+
+> You need to set a password to push and pull over HTTPS with Git using your account
 
 ---
-3. You may add "**YPCloudInc**" as a collaborator to your project for following up purpose
+3. You may add "**YPCloudInc**" as a member to your project for following up purpose
 
-![](https://user-images.githubusercontent.com/116076967/196886186-82528f6e-53d9-4ab4-a15e-540e0b6fdbe8.png)
-
-![](https://user-images.githubusercontent.com/116076967/196886208-206029fe-4426-4dae-83da-a4205fa56e61.png)
+<img width="512" src="https://user-images.githubusercontent.com/116076967/197030931-7edb944c-f283-4ebd-b62f-f04582cb2122.png">
 
 ---
 * Reminders: 
