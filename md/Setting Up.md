@@ -10,16 +10,23 @@ This is the app where YP host all the communication and updates,
 ---
 ### | YP Account 
 | First Prority - Single Sign On Purpose
+
 * Create a YP Account:
     1. Head to [account.ypcloud.com](https://account.ypcloud.com/#/login)
+
     2. Click on "Sign Up" and create your username and password
      > It is an option to sign up with your 3rd party Gmail / Facebook / Telegram
+
     3. By choosing one of the third party login methods above, you would need to  click "change password" to fully bind the account
-    <img src="https://i.imgur.com/TAbqWvv.png" width=300 height=300>
-    
+
+    <img src="https://user-images.githubusercontent.com/116076967/197032230-e463c270-28a3-4510-8625-14bece013714.png" width=300 height=300>
+
     4. Sign in again to confirm your new account
+
     5. Head to [Jujue Browser](https://jujue.app/browser)
+
     6. Click the App Launcher button ![](https://i.imgur.com/3eNN7Er.png) on the top right corner
+
     7. Now you can use your account to access GitLab, fBuilder, jBuilder, etc.
     > Access fBuilder, jBuilder through "[Run](https://run.ypcloud.com)"
 
