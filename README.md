@@ -32,7 +32,9 @@ Guidline setting up your working space:
 
 - SOP Creating AI Models - [TWCC](md/TWCC.md) / [iBuilder](md/iBuilder.md)
 
-<img src="https://i.imgur.com/FTdU6lQ.jpg" width=auto height=450>
+![](https://user-images.githubusercontent.com/116076967/197033026-8a4f59fb-3a37-4835-9554-ba576401ae97.jpeg)
+
+<img src="https://i.imgur.com/FTdU6lQ.jpg" width=auto height=auto>
 
 ---
 ###### tags: `Clouder`,`YPCloud` 
