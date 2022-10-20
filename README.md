@@ -1,6 +1,10 @@
 # [Hi Clouders!](https://clouder.ypcloud.com/)
 
-Welcome to the Clouders Community! This is the Clouder Guide
+Welcome to the Clouders Community! 
+
+Clouder is a worldwide community bringing you on the journey of learning & creating through low codes.
+
+This is the Clouder Guide
 
 ## Software
 ### [Jujue-App User Guide](https://github.com/motebus/ultrabook/blob/main/Ultranet%20Apps/jujue-app%20User%20Guide.md)
