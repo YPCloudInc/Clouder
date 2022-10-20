@@ -33,7 +33,6 @@ This is the app where YP host all the communication and updates,
 ## GitLab
 1. Sign up a [GitLab](https://gitlab.com/) Account
 
----
 2. Create a new repository by clicking "Create a project", "Create blank project" and name it "Clouder"
 
 * Keep your project private
@@ -45,11 +44,13 @@ This is the app where YP host all the communication and updates,
 > You need to set a password to push and pull over HTTPS with Git using your account
 
 ---
-3. You may invite "**YPCloudInc**" as a member to your project for following up purpose
+- You may invite "**YPCloudInc**" as a member to your project for following up purpose
 
 <img width="1470" src="https://user-images.githubusercontent.com/116076967/197031472-6e214003-3eba-418b-982d-47a71a7337e6.png">
 
 <img width="512" src="https://user-images.githubusercontent.com/116076967/197030931-7edb944c-f283-4ebd-b62f-f04582cb2122.png">
+
+- In your newly created project, you may create your progress journal by clicking "+" to add a new file, and naming it "{Name}-Clouder-Journal.md", where "{Name}" is your name 
 
 ---
 * Reminders: 
