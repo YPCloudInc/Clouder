@@ -27,21 +27,21 @@ This is the app where YP host all the communication and updates,
 1. Sign up a [GitHub](https://github.com/) Account
 
 ---
-2. Create a new repository by clicking "New", and name it "Clouder {Name}", where "{Name}" is your name
+2. Create a new repository by clicking "New", and name it "Clouder"
 
-![Screen Shot 2022-10-20 at 2 06 26 PM (2)](https://user-images.githubusercontent.com/116076967/196869079-d4530192-f94f-4b21-b71a-b1f82c982778.png)
+![](https://user-images.githubusercontent.com/116076967/196869079-d4530192-f94f-4b21-b71a-b1f82c982778.png)
 
 * Keep your project private
 * Please remember to tick "Add a README file" when createing 
 
-![](https://user-images.githubusercontent.com/116076967/196868753-31a13eaf-49cb-4b70-a2b8-092bb94c9e74.png)
+![](https://user-images.githubusercontent.com/116076967/196886092-a4169a56-e0db-4176-a7cc-6e3b5bf95bdb.png)
 
 ---
 3. You may add "**YPCloudInc**" as a collaborator to your project for following up purpose
 
-![Screen Shot 2022-10-20 at 3 13 38 PM (2)](https://user-images.githubusercontent.com/116076967/196884671-8328ab06-322f-40ef-b1d6-2317a3ff07b2.png)
+![](https://user-images.githubusercontent.com/116076967/196886186-82528f6e-53d9-4ab4-a15e-540e0b6fdbe8.png)
 
-![Screen Shot 2022-10-20 at 3 14 17 PM (2)](https://user-images.githubusercontent.com/116076967/196884687-a15339c4-28f0-4d88-9761-075980f502be.png)
+![](https://user-images.githubusercontent.com/116076967/196886208-206029fe-4426-4dae-83da-a4205fa56e61.png)
 
 ---
 * Reminders: 
