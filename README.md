@@ -26,7 +26,7 @@ Guidline setting up your working space:
 
 ### [iBuilder AI Market Guide](md/aim.md)
 
-- SOP Creating AI Models - [TWCC](https://hackmd.io/@ypcloud-inc/twcc-aimodel) / [iBuilder](https://hackmd.io/@ypcloud-inc/ibuilder-aimodel)
+- SOP Creating AI Models - [TWCC](md/TWCC.md) / [iBuilder](md/iBuilder.md)
 
 <img src="https://i.imgur.com/FTdU6lQ.jpg" width=auto height=450>
 
