@@ -1,6 +1,9 @@
 # Twin Clocking
 The “twin” chould be set clocking in 4 times a day: 00:00, 09:00, 12:00, and 18:00. 
 
+### Join Telegram Group
+* [clockin://open](https://t.me/clockin_open)
+
 ### Go to fBuilder
 * fbuilder url: [run](https://run.ypcloud.com)
 * Login with your YPCloud account and choose "fbuilder" and click "go"
