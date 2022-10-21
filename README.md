@@ -4,7 +4,7 @@ Welcome to the Clouders Community!
 
 Clouder is a worldwide community bringing you on the journey of learning & creating through low codes.
 
-This is the Clouder Guide
+This is the Clouder Introduction
 
 # Workspace Setup
 
