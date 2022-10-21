@@ -42,7 +42,8 @@ A web-based dashboard creator. Create dashboards for digital maintenance systems
 iBuilder is a cloud-hosted Jupyter Notebook service with integrations for AI Models. 
 
 - SOP Creating AI Models 
-  - [TWCC](md/TWCC.md) / [iBuilder](md/iBuilder.md)
+  - [iBuilder](md/iBuilder.md)
+  - [TWCC](md/TWCC.md)
 
 ### [pBuilder User Guide](https://github.com/motebus/ultrabook/blob/main/Ultranet%20Apps/pBuilder%20User%20Guide.md)
 
