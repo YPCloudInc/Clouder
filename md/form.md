@@ -89,23 +89,23 @@ Click "Save" after editing
 ### Add a new Trigger
 Go to the "Triggers" page
 
-<img src="https://i.imgur.com/HsiFZap.png" width=750 height=474>
+<img src="https://i.imgur.com/HsiFZap.png" width=auto height=auto>
 
 Click "Add Trigger"
 
-<img src="https://i.imgur.com/J2ob7k6.png" width=750 height=474>
+<img src="https://i.imgur.com/J2ob7k6.png" width=auto height=auto>
 
 In the dropdown menu for "Select event type", select "On form submit", then click "Save"
 
-<img src="https://i.imgur.com/dH1DWcH.png" width=750 height=474>
+<img src="https://i.imgur.com/dH1DWcH.png" width=auto height=auto>
 
 Accept Apps Scripts authorization requests
 
-<img src="https://i.imgur.com/UczqhD5.png" width=750 height=474>
+<img src="https://i.imgur.com/UczqhD5.png" width=auto height=auto>
 
-<img src="https://i.imgur.com/JfRNW8w.png" width=750 height=474>
+<img src="https://i.imgur.com/JfRNW8w.png" width=auto height=auto>
 
-<img src="https://i.imgur.com/tLkRP73.png" width=750 height=474>
+<img src="https://i.imgur.com/tLkRP73.png" width=auto height=auto>
 
 
 Close the Apps Script
@@ -116,7 +116,7 @@ Login https://run.ypcloud.com, choose "fBuilder", click "Go"
 
 Create a new project
 
-<img src="https://i.imgur.com/BZdmxFZ.png" width=790 height=437>
+<img src="https://i.imgur.com/BZdmxFZ.png" width=auto height=auto>
 
 Project Name, Title and QName (name of your Bot)
 
