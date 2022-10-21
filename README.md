@@ -14,7 +14,7 @@ Let's begin from setting up your working space:
 
 ### [Setting Up (Telegram, YP Account, GitLab)](md/Setting%20Up.md)
 
-### [Gitops Basic (clone push pull)](md/git-clone.md)
+- [Gitops Basic (clone push pull)](md/git-clone.md)
 
 # Ultranet Builders
 
