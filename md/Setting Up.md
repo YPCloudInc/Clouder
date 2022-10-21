@@ -55,5 +55,5 @@ This is the app where YP host all the communication and updates,
 ---
 * Reminders: 
     * Visit "[Clouder](https://github.com/YPCloudInc/Clouder/)" for more docs
-    * Your code and other resources you develop will be stored in Gitops
+    * Your code and other resources you develop will be stored in GitLab
     * Markdown Syntax Guide - [English](https://www.markdownguide.org/basic-syntax/) / [中文](https://markdown.tw/) 
