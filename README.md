@@ -8,9 +8,9 @@ Clouder is a worldwide community bringing you on the journey of learning & creat
 
 Here's what we should do to get started. Let's begin from setting up our working space:
 
-### [Setting Up (Telegram, YP Account, GitLab)](md/Setting%20Up.md)
+### Setting Up [(Telegram, YP Account, GitLab)](md/Setting%20Up.md)
 
-- [GitLab Basic (clone push pull)](md/git-clone.md)
+- GitLab Basic [(clone push pull)](md/git-clone.md)
 
 # Ultranet Builders
 
@@ -85,5 +85,6 @@ A service that display contents can be manipulated by uBot by Node-Red, and @Sma
 ###### tags: `Clouder`,`YPCloud` 
 ---
 > [YPCloud Inc.](https://www.ypcloud.com)
+> [Clouder](https://clouder.ypcloud.com)
 > [name=Shin, Allen, Eugene]
 > [time=since 2021]
