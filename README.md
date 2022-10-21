@@ -70,7 +70,7 @@ A service that display contents can be create by Jbuilder & display your digital
 
 ### [SmartScreen User Guide](https://github.com/motebus/ultrabook/blob/main/Ultranet%20Apps/SmartScreen%20User%20Guide.md)
 
-[<img align="left" width="100" height="50" src="https://i.imgur.com/Jl3YyH9.png" />](smartscreen.tv)
+[<img align="left" width="100" height="50" src="https://i.imgur.com/Jl3YyH9.png" />](https://smartscreen.tv)
 
 #### Smartscreen
 A service that display contents can be manipulated by uBot by Node-Red, and @SmartScreenBot by telegram
