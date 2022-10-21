@@ -57,6 +57,13 @@ A website deployment tool for publishing websites to live servers in minutes.
 #### jujue.app
 The Mote Browser. 
 
+### [jBoard](https://jboard.ypcloud.com/)
+
+<img align="left" width="100" height="70" src="https://i.imgur.com/5rrq8ur.png" />
+
+#### jBoard
+A service that display contents can be create by Jbuilder & display your digital dashboards and display boards from anywhere with JBoard
+
 ### [SmartScreen User Guide](https://github.com/motebus/ultrabook/blob/main/Ultranet%20Apps/SmartScreen%20User%20Guide.md)
 
 <img align="left" width="100" height="50" src="https://i.imgur.com/Jl3YyH9.png" />
