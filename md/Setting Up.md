@@ -2,7 +2,7 @@
 
 ### | Telegram
 This is the app where YP host all the communication and updates,
-<br>make sure you have joined these YPCloud groups on Telegram:
+<br>make sure you have joined these groups on Telegram:
 * [Clouder](https://t.me/clouder_open)
 * [clockin://open](https://t.me/clockin_open)
 * [JujueBot-Open](https://t.me/jujuebot_open)
