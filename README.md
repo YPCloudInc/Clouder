@@ -7,7 +7,13 @@ Clouder is a worldwide community bringing you on the journey of learning & creat
 This is the Clouder Guide
 
 ## Software
+
 ### [Jujue-App User Guide](https://github.com/motebus/ultrabook/blob/main/Ultranet%20Apps/jujue-app%20User%20Guide.md)
+
+<img align="left" height="50" src="https://i.imgur.com/D0BZj5F.png" />
+
+#### jujue.app
+The Mote Browser. 
 
 ### [SmartScreen User Guide](https://github.com/motebus/ultrabook/blob/main/Ultranet%20Apps/SmartScreen%20User%20Guide.md)
 
