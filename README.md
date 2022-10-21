@@ -23,6 +23,10 @@ Here's what you should do to get started. Let's begin from setting up your worki
 #### fBuilder
 A flow-based visual programming tool for easily deploying microservices and creating IoT control management systems.
 
+- [Twin Clocking Tutorial](md/twin.md)
+- [Chatbot Tutorial](md/chatbot.md)  
+- [Form & Formbot Tutorial](md/form.md)
+
 ### [jBuilder User Guide](https://github.com/motebus/ultrabook/tree/main/Ultranet%20Apps/jBuilder)
 
 <img align="left" height="70" src="https://i.imgur.com/p9jaFdK.png">
