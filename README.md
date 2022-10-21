@@ -8,9 +8,7 @@ This is the Clouder Guide
 
 # Workspace Setup
 
-Here's what you should do to get started. 
-
-Let's begin from setting up your working space:
+Here's what you should do to get started. Let's begin from setting up your working space:
 
 ### [Setting Up (Telegram, YP Account, GitLab)](md/Setting%20Up.md)
 
