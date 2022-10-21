@@ -8,20 +8,20 @@ Before things get started, receive the Telegram Chat ID of the group you want to
 ## 1. Create a new Google Form
 via https://drive.google.com/ or https://docs.google.com/forms/
 
-<img src="https://i.imgur.com/Ow95By2.png" width=750 height=474>
+<img src="https://i.imgur.com/Ow95By2.png" width=auto height=auto>
 
 ## 2. Name the Form, add 2~3 Questions
 
 Make sure to have a question where the respondent has to fill in their email. 
 
 ## 3. Open Apps Script Editor
-<img src="https://i.imgur.com/mLfLP5b.png" width=750 height=474>
+<img src="https://i.imgur.com/mLfLP5b.png" width=auto height=auto>
 
 
 ## 4. Replace content of code.gs with Webhook Script
 * Remember to Rename the project
 
-<img src="https://i.imgur.com/nKLBl29.png" width=750 height=474>
+<img src="https://i.imgur.com/nKLBl29.png" width=auto height=auto>
 
 Webhook Script example: 
 ```
