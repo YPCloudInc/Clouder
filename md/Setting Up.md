@@ -44,7 +44,7 @@ This is the app where YP host all the communication and updates,
 > You need to set a password to push and pull over HTTPS with Git using your account
 
 ---
-- You may invite "**YPCloudInc**" as a member to your project for following up purpose
+- You may invite "[**YPCloudInc**](https://gitlab.com/YPCloudInc)" as a member to your project for following up purpose
 
 <img width="1470" src="https://user-images.githubusercontent.com/116076967/197031472-6e214003-3eba-418b-982d-47a71a7337e6.png">
 
