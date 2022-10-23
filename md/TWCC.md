@@ -79,7 +79,7 @@
 ### | Step 5 - Jupiter
 - The "GO TO JUPITER" will bring you to a files interface (tab)
 - Click/Tap "Upload" to browse for a file to upload
-- ".ipynb" file samples ([.ipynb](tree/main/.ipynb) / [ydrive](https://drive.google.com/drive/folders/1KL595j6J_iyt7mIvMhpKM7HqutRXjqwA?usp=sharing))
+- ".ipynb" file samples ([.ipynb](https://github.com/YPCloudInc/Clouder/tree/main/.ipynb) / [ydrive](https://drive.google.com/drive/folders/1KL595j6J_iyt7mIvMhpKM7HqutRXjqwA?usp=sharing))
 - Click/Tap an ".ipynb" file that you wish to edit from the list
   - E.g. cat-dog.ipynb / gradio.ipynb
 
