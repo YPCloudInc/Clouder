@@ -68,7 +68,7 @@ These are the most basic and frequently used nodes on fBuilder.
 ```
 
 * Replace xxxxx with your English name.
-* Fist word capital ex: "Trex clocking"
+* Fist word capital ex: "Digitor clocking"
 
 #### Send
 
@@ -101,18 +101,21 @@ ioc://-1001840835713
 [<img src="https://i.imgur.com/Q6b3Ljd.png">](https://run.ypcloud.com)
 
 * Press the red "Deploy" button on the top right corner to deploy your flow. 
-(Remember to do this every time you change the content of any flow or else your changes won't be saved)
+> Remember to do this every time you change the content of any flow or else your changes won't be saved
+
 * Press the small blue button in front of the 1st timestamp node "initials" to inject the node for testing.
-* Open the debug window in the left-hand sidebar. If your Errmsg is "OK" after injecting the node and you see your message in the telegram clocking group, your test has been successful.
+
+* Open the debug window in the left-hand sidebar. If your Errmsg is "OK" after injecting the node and you see your message in the Telegram [clockin://open](https://t.me/clockin_open) group, your test has been successful.
 
 [<img src="https://i.imgur.com/TBBg4ZD.png">](https://run.ypcloud.com)
 
 ### [QRun](https://github.com/motebus/ultrabook/blob/main/Ultranet%20Apps/fBuilder/qrun.md) your twin
 * After the successful test
-* Choose "h4-node" to qrun
+
+* Choose "h4-node" to QRun
 
 * Keep watching the Telegram clocking group to see whether your twin works at the four times even after you've logged out of fbuilder/shutdown your pc. 
 
-### Always Remeber to logout fbuidler after use!!!
+> Always Remeber to logout fBuidler after use!
 
-# Congrats. You have finished the Guide.
+# Congrats! You have finished the Twin Guide.
