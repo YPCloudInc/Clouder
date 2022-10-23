@@ -28,7 +28,7 @@
 ### | Step 3 - Jupiter
 - The "GO" will bring you to a files interface (tab)
 - Pull file into interface to upload files
-- ".ipynb" file samples ([ydrive](https://drive.google.com/drive/folders/1KL595j6J_iyt7mIvMhpKM7HqutRXjqwA?usp=sharing))
+- ".ipynb" file samples ([.ipynb](https://github.com/YPCloudInc/Clouder/tree/main/.ipynb) / [ydrive](https://drive.google.com/drive/folders/1KL595j6J_iyt7mIvMhpKM7HqutRXjqwA?usp=sharing))
 
 [![](https://i.imgur.com/luDQ5xT.png)](https://run.ypcloud.com/)
 
