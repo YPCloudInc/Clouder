@@ -9,11 +9,11 @@
 ### | Front Desk
 - [Production (Major Site)](https://ai-market.nchc.org.tw/)
 - [Backup (2nd Site)](https://aim.nchc.org.tw/)
-- [Aim Lab](https://aimlab.nchc.org.tw/)
+- [AIM Lab](https://aimlab.nchc.org.tw/)
 ### | Backstage
 - [Ops](https://aimops.nchc.org.tw/)
 - [Ultraport](https://aimops.nchc.org.tw/ultraport/)
-- [IOC Aim](https://iocaim.ypcloud.com)
+- [IOC AIM](https://iocaim.ypcloud.com)
 ### | Organizational Data
 - [iService - Account & Wallet Management](https://iservice.nchc.org.tw/)
 - [TWCC - Resource Management](https://www.twcc.ai/)
@@ -25,7 +25,7 @@
 - From either "front desk" urls 
 - ※ [Lab](https://aimlab.nchc.org.tw/) recommented as of Sep26, 2022
 
-![](https://i.imgur.com/gP2dhc4.jpg)
+[![](https://i.imgur.com/gP2dhc4.jpg)](https://aimlab.nchc.org.tw/)
 
 
 ---
@@ -33,17 +33,17 @@
 - Use English for easier communication
 - Click/Tap "My Models & Data“ then "My Models"
 
-![](https://i.imgur.com/rxCZTDL.png)
+[![](https://i.imgur.com/rxCZTDL.png)](https://aimlab.nchc.org.tw/)
 
 - Click/Tap "JUPYTER"
 
-![](https://i.imgur.com/hw5yToP.png)
+[![](https://i.imgur.com/hw5yToP.png)](https://aimlab.nchc.org.tw/)
 
 ---
 ### | Step 3 - Add Model
 - Click/Tap "+"
 
-![](https://i.imgur.com/afGWrRJ.png)
+[![](https://i.imgur.com/afGWrRJ.png)](https://aimlab.nchc.org.tw/)
 
 - Select "PYTORCH" for testing
 - Fill in "Container Name" & "Description"
@@ -52,27 +52,27 @@
   - (the smallest when it is for testing purpose due to the high cost of supercomputer operation)
 - Click/Tap "NEXT"
 
-![](https://i.imgur.com/guCmb3e.png)
-![](https://i.imgur.com/btLy4dk.png)
+[![](https://i.imgur.com/guCmb3e.png)](https://aimlab.nchc.org.tw/)
+[![](https://i.imgur.com/btLy4dk.png)](https://aimlab.nchc.org.tw/)
 
 - Click/Tap "CREATE" after comfirming details
 
-![](https://i.imgur.com/oBOQY1J.png)
+[![](https://i.imgur.com/oBOQY1J.png)](https://aimlab.nchc.org.tw/)
 
 - It will take some time to initialize model, please stand by
 
-![](https://i.imgur.com/uLghn5N.png)
-![](https://i.imgur.com/tzQBK5v.png)
+[![](https://i.imgur.com/uLghn5N.png)](https://aimlab.nchc.org.tw/)
+[![](https://i.imgur.com/tzQBK5v.png)](https://aimlab.nchc.org.tw/)
 
 ---
 ### | Step 4 - Run Model
 - Click/Tap "Run" when the progress is ready
 
-![](https://i.imgur.com/oRPNAMG.png)
+[![](https://i.imgur.com/oRPNAMG.png)](https://aimlab.nchc.org.tw/)
 
 - Click/Tap "GO TO JUPITER"
 
-![](https://i.imgur.com/YbWqTpd.png)
+[![](https://i.imgur.com/YbWqTpd.png)](https://aimlab.nchc.org.tw/)
 
 
 ---
@@ -83,21 +83,21 @@
 - Click/Tap an ".ipynb" file that you wish to edit from the list
   - E.g. cat-dog.ipynb / gradio.ipynb
 
-![](https://i.imgur.com/Jga4o9b.png)
+[![](https://i.imgur.com/Jga4o9b.png)](https://aimlab.nchc.org.tw/)
 
 - The ".ipynb" will bring you to an edit interface (tab)
 - Choose the program you wish to edit
 - Set 'share=True' in 'launch()' to crate a public link
 
-![](https://i.imgur.com/qV8dDrD.png)
+[![](https://i.imgur.com/qV8dDrD.png)](https://aimlab.nchc.org.tw/)
 
 - Click/Tap "Run" 
 
-![](https://i.imgur.com/37xsJzV.png)
+[![](https://i.imgur.com/37xsJzV.png)](https://aimlab.nchc.org.tw/)
 
 - A public link (URL) is generated
 
-![](https://i.imgur.com/Z2aErG4.jpg)
+[![](https://i.imgur.com/Z2aErG4.jpg)](https://aimlab.nchc.org.tw/)
 
 ---
 ### | Step 5 - Jupiter - Samples
