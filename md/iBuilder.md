@@ -1,7 +1,7 @@
 # **iBuilder** | Create AI Models - SOP
 ## **| YPCloud Run iBuilder**
 
-![](https://i.imgur.com/WzCDA1M.png)
+[![](https://i.imgur.com/WzCDA1M.png)](https://run.ypcloud.com/)
 
 ---
 
@@ -13,16 +13,16 @@
 
 ### | Step1 - Login your Account
 
-![](https://i.imgur.com/h1phh3L.jpg)
+[![](https://i.imgur.com/h1phh3L.jpg)](https://run.ypcloud.com/)
 
-![](https://i.imgur.com/8OMmaKi.png)
+[![](https://i.imgur.com/8OMmaKi.png)](https://run.ypcloud.com/)
 
 
 ---
 ### | Step2 - "iBuilder" Interface
 - Click/Tap "iBuilder“ then "GO"
 
-![](https://i.imgur.com/LbGpmtR.jpg)
+[![](https://i.imgur.com/LbGpmtR.jpg)](https://run.ypcloud.com/)
 
 ---
 ### | Step 3 - Jupiter
@@ -30,26 +30,26 @@
 - Pull file into interface to upload files
 - ".ipynb" file samples ([ydrive](https://drive.google.com/drive/folders/1KL595j6J_iyt7mIvMhpKM7HqutRXjqwA?usp=sharing))
 
-![](https://i.imgur.com/luDQ5xT.png)
+[![](https://i.imgur.com/luDQ5xT.png)](https://run.ypcloud.com/)
 
 - Double Click/Tap an ".ipynb" file that you wish to edit from the list
   - E.g. cat-dog.ipynb / gradio.ipynb
 
-![](https://i.imgur.com/6KOT8Sh.png)
+![](https://i.imgur.com/6KOT8Sh.png)](https://run.ypcloud.com/)
 
 - The edit interface will be shown on the right
 - Choose the program you wish to edit
 - Set 'share=True' in 'launch()' to crate a public link
 
-![](https://i.imgur.com/Xgy5cox.png)
+[![](https://i.imgur.com/Xgy5cox.png)](https://run.ypcloud.com/)
 
 - Click/Tap "Run" 
 
-![](https://i.imgur.com/tY8s24u.png)
+[![](https://i.imgur.com/tY8s24u.png)](https://run.ypcloud.com/)
 
 - A public link (URL) is generated
 
-![](https://i.imgur.com/Z2aErG4.jpg)
+[![](https://i.imgur.com/Z2aErG4.jpg)](https://run.ypcloud.com/)
 
 ---
 ### | Jupiter - Samples
