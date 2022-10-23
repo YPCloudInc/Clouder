@@ -1,7 +1,7 @@
 # **TWCC** | Create AI Models - SOP
 ## **| TWCC AI Model Marketplace**
 
-![](https://i.imgur.com/99b5rgK.png)
+[![](https://i.imgur.com/99b5rgK.png)](https://aimlab.nchc.org.tw/)
 
 ---
 
@@ -79,7 +79,7 @@
 ### | Step 5 - Jupiter
 - The "GO TO JUPITER" will bring you to a files interface (tab)
 - Click/Tap "Upload" to browse for a file to upload
-- ".ipynb" file samples ([ydrive](https://drive.google.com/drive/folders/1KL595j6J_iyt7mIvMhpKM7HqutRXjqwA?usp=sharing))
+- ".ipynb" file samples ([.ipynb](.ipynb) [ydrive](https://drive.google.com/drive/folders/1KL595j6J_iyt7mIvMhpKM7HqutRXjqwA?usp=sharing))
 - Click/Tap an ".ipynb" file that you wish to edit from the list
   - E.g. cat-dog.ipynb / gradio.ipynb
 
