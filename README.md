@@ -6,11 +6,11 @@ Clouder is a worldwide community bringing you on the journey of learning & creat
 
 # Workspace Setup
 
-Here's what we should do to get started. Let's begin from setting up our working space:
+Let's begin from setting up our working space:
 
-### Setting Up [(Telegram, YP Account, GitLab)](md/Setting%20Up.md)
+### Platforms [(Telegram, YP Account, GitLab)](md/Setting%20Up.md)
 
-- GitLab Basic [(clone push pull)](md/git-clone.md)
+- GitLab [(Clone, Push, Pull)](md/git-clone.md)
 
 # Ultranet Builders
 
