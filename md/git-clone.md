@@ -1,24 +1,30 @@
-## Step 1 
-### On the page of your GitLab project, click "Clone" and copy the URL (Clone with HTTPS)
+# On a page of your GitLab projects
+
+## Step 1 - Copy
+- Select "Clone" and copy the URL (Clone with HTTPS)
  
-## Step 2 clone (in terminal)
+---
+
+# Open the Terminal of your computer
+
+## Step 2 - Clone
 ```
 git clone "your git project url"
 ```
 
 ### Use local UI interface to add stuff you want after that
 
-## Step 3 (in terminal)
+## Step 3 
 ```
 cd xxx(your project name)
 ```
 
-## Step 4 pull
+## Step 4 - Pull
 ```
 git pull
 ```
 
-## Step 5 push
+## Step 5 - Push
 ```
 git add .
 ```
