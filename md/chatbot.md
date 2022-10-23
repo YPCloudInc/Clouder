@@ -10,4 +10,3 @@ This is an echo bot by default
 4. Deploy and QRun to qbix-h4 
 
 5. Join Telegram group [JujueBot-Open](https://t.me/jujuebot_open), send "@@your-bot-name hi" to test that your chatbot has been successfully created
-v
