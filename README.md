@@ -8,9 +8,11 @@ Clouder is a worldwide community bringing you on the journey of learning & creat
 
 Let's begin from setting up our working space:
 
-### Platforms [(Telegram, YP Account, GitLab)](md/Setting%20Up.md)
+### [Platforms Guide](md/Setting%20Up.md)
 
-- GitLab [(Clone, Push, Pull)](md/git-clone.md)
+- Telegram Groups
+- [YP Account](https://account.ypcloud.com/#/login)
+- [GitLab](https://gitlab.com/) - [(Clone, Push, Pull)](md/git-clone.md)
 
 # Ultranet Builders
 
