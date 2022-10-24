@@ -123,7 +123,7 @@ Project Name, Title and QName (name of your Bot)
 <img src="https://i.imgur.com/fe5mCEB.png">
 
 
-## 6. Import [formbot-coffee.flow](/coffee/formbot-coffe.flow)
+## 6. Import [formbot-coffee.flow](/coffee/formbot-coffee.flow)
 - Edit the funtion node of the `reg` as the comment node shows
 - Click "Done", then "Deploy" to save your changes
 - Edit the `to email` function nodes: modify `msg.payload` (following `"content"`) according to responses in your Google Form's webhook script
