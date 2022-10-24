@@ -1,6 +1,6 @@
-# Setting Up (Telegram, YP Account, GitLab)
+# Setting Up <br>Telegram, YP Account, GitLab
 
-### | Telegram
+## | Telegram
 This is the app where all communication and updates are hold,
 <br>make sure you have joined these groups on Telegram:
 * [Clouder](https://t.me/clouder_open)
@@ -8,7 +8,7 @@ This is the app where all communication and updates are hold,
 * [JujueBot-Open](https://t.me/jujuebot_open)
 
 ---
-### | YP Account 
+## | YP Account 
 | First Prority - Single Sign On Purpose
 
 * Create a YP Account:
@@ -30,7 +30,7 @@ This is the app where all communication and updates are hold,
     7. Now you can use your account to access GitLab, fBuilder, jBuilder, etc.
     > [Run](https://run.ypcloud.com)
 
-## GitLab
+## | GitLab
 1. Sign up a [GitLab](https://gitlab.com/) Account
 
 2. Create a new repository by clicking "Create a project", "Create blank project" and name it "Clouder"
