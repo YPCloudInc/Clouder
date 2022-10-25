@@ -41,7 +41,7 @@
 #### iBuilder
 以 雲端 託管 Jupyter Notebook，集成 AI 模型。
 
-- 創建AI模型 標準作業流程
+- 創建人工智慧(AI)模型 標準作業流程(SOP)
   - [iBuilder](md/iBuilder.md)
   - [TWCC](md/TWCC.md)
 
