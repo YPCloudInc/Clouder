@@ -9,7 +9,7 @@ This is the app where all communication and updates are hold,
 
 ---
 ## | YP Account 
-| First Prority - Single Sign On Purpose
+| First Priority - Single Sign On Purpose
 
 * Create a YP Account:
     1. Head to [account.ypcloud.com](https://account.ypcloud.com/#/login)
@@ -46,7 +46,7 @@ This is the app where all communication and updates are hold,
 > You need to set a password to push and pull over HTTPS with Git using your account
 
 ---
-- You may invite "[**YPCloudInc**](https://gitlab.com/YPCloudInc)" as a member to your project for following up purpose
+- You may invite "[**YPCloudInc**](https://gitlab.com/YPCloudInc)" as a member to your project for following up purposes
 
 [<img width="1470" src="https://user-images.githubusercontent.com/116076967/197031472-6e214003-3eba-418b-982d-47a71a7337e6.png">](https://gitlab.com/)
 
@@ -58,4 +58,4 @@ This is the app where all communication and updates are hold,
 * Reminders: 
     * Visit "[Clouder](https://github.com/YPCloudInc/Clouder/)" for more docs
     * Your code and other resources you develop will be stored in GitLab
-    * Markdown Syntax Guide - [English](https://www.markdownguide.org/basic-syntax/) / [中文](https://markdown.tw/) 
+    * Markdown (md) Syntax Guide - [English](https://www.markdownguide.org/basic-syntax/) / [中文](https://markdown.tw/) 
