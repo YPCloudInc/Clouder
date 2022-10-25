@@ -54,9 +54,9 @@
 
 ---
 
-# Ultranet Apps
+# Ultranet 應用程式
 
-### [Jujue-App 用戶指南](https://github.com/motebus/ultrabook/blob/main/Ultranet%20Apps/jujue-app%20User%20Guide.md)
+### [Jujue-應用程式(App) 用戶指南](https://github.com/motebus/ultrabook/blob/main/Ultranet%20Apps/jujue-app%20User%20Guide.md)
 
 [<img align="left" height="50" src="https://i.imgur.com/D0BZj5F.png" />](https://jujue.app/browser)
 
@@ -70,7 +70,7 @@
 #### jBoard
 透過 jBuilder 編輯創建顯示內容，並使用 jBoard 從任何地方顯示版面。
 
-### [SmartScreen 用戶指南](https://github.com/motebus/ultrabook/blob/main/Ultranet%20Apps/SmartScreen%20User%20Guide.md)
+### [智慧螢幕(SmartScreen) 用戶指南](https://github.com/motebus/ultrabook/blob/main/Ultranet%20Apps/SmartScreen%20User%20Guide.md)
 
 [<img align="left" width="100" height="50" src="https://i.imgur.com/Jl3YyH9.png" />](https://smartscreen.tv)
 
@@ -86,6 +86,5 @@
 ---
 ###### tags: `雲耕隊`,`乒乓話網`,`社群` 
 ---
-> [YPCloud Inc.](https://www.ypcloud.com)
-> [Clouder](https://clouder.ypcloud.com)
-> [name=Eugene]
+> [乒乓話網股份有限公司](https://www.ypcloud.com)
+> [雲耕隊](https://clouder.ypcloud.com)
