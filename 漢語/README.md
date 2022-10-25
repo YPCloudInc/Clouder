@@ -8,7 +8,7 @@
 
 讓我們從設置我們的工作空間開始：
 
-### [平臺設置指引](%E6%BC%A2%E8%AA%9E/md/%E8%A8%AD%E7%BD%AE.md)
+### [平臺設置指引](https://github.com/YPCloudInc/Clouder/blob/main/%E6%BC%A2%E8%AA%9E/md/%E8%A8%AD%E7%BD%AE.md)
 
 - Telegram 群組
 - [YP 帳號](https://account.ypcloud.com/#/login)
