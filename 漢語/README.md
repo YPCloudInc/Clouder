@@ -1,0 +1,91 @@
+# [Hi 雲耕隊！](https://clouder.ypcloud.com/)
+
+歡迎來到雲耕隊社群！
+
+科技農耕隊 邀請您一同踏上，透過低程式碼 學習和創造的旅程！
+
+# 工作區設置
+
+讓我們從設置我們的工作空間開始：
+
+### [平臺設置指引](md/Setting%20Up.md)
+
+- Telegram 群組
+- [YP 帳號](https://account.ypcloud.com/#/login)
+- [GitLab](https://gitlab.com/) - [(Clone, Push, Pull)](md/git-clone.md)
+
+# Ultranet 建造工具
+
+### [fBuilder 用戶指南](https://github.com/motebus/ultrabook/tree/main/Ultranet%20Apps/fBuilder)
+
+[<img align="left" width="70" height="70" src="https://i.imgur.com/lWgj5Fr.jpg" />](https://run.ypcloud.com/)
+
+#### fBuilder
+基於「流」的可視化編程工具，用於輕鬆部署微服務和創建物聯網控制管理系統。
+
+- [雙生計時機器人 教學](md/twin.md)
+- [聊天機器人 教學](md/chatbot.md)  
+- [表單 及 表單機器人 教學](md/form.md)
+
+### [jBuilder 用戶指南](https://github.com/motebus/ultrabook/tree/main/Ultranet%20Apps/jBuilder)
+
+[<img align="left" height="70" src="https://i.imgur.com/p9jaFdK.png">](https://run.ypcloud.com/)
+
+#### jBuilder
+基於網的版面創建工具。為數字維護系統、演示、交互式信息亭、定製網站等創建版面。
+
+### [iBuilder AI Market 指南](md/aim.md)
+
+[<img align="left" height="70" src="https://i.imgur.com/hRUqgoP.png">](https://run.ypcloud.com/)
+
+#### iBuilder
+以 雲端 託管 Jupyter Notebook，集成 AI 模型。
+
+- 創建 AI 模型 SOP
+  - [iBuilder](md/iBuilder.md)
+  - [TWCC](md/TWCC.md)
+
+### [pBuilder 用戶指南](https://github.com/motebus/ultrabook/blob/main/Ultranet%20Apps/pBuilder%20User%20Guide.md)
+
+[<img align="left" height="70" src="https://i.imgur.com/gLlkmXT.png">](https://run.ypcloud.com/)
+
+#### pBuilder
+網站部署工具，可在幾分鐘內將網站發佈到實時服務器。
+
+---
+
+# Ultranet Apps
+
+### [Jujue-App 用戶指南](https://github.com/motebus/ultrabook/blob/main/Ultranet%20Apps/jujue-app%20User%20Guide.md)
+
+[<img align="left" height="50" src="https://i.imgur.com/D0BZj5F.png" />](https://jujue.app/browser)
+
+#### Jujue.app
+微塵瀏覽器。
+
+### [jBoard](https://jboard.ypcloud.com/)
+
+[<img align="left" width="100" height="70" src="https://i.imgur.com/5rrq8ur.png" />](https://jboard.ypcloud.com/)
+
+#### jBoard
+透過 jBuilder 編輯創建顯示內容，並使用 jBoard 從任何地方顯示版面。
+
+### [SmartScreen 用戶指南](https://github.com/motebus/ultrabook/blob/main/Ultranet%20Apps/SmartScreen%20User%20Guide.md)
+
+[<img align="left" width="100" height="50" src="https://i.imgur.com/Jl3YyH9.png" />](https://smartscreen.tv)
+
+#### SmartScreen
+透過 Node-Red 的 uBot 及 Telegram 的 @SmartScreenBot 操作，編輯顯示內容。
+
+---
+
+[![](https://user-images.githubusercontent.com/116076967/197033026-8a4f59fb-3a37-4835-9554-ba576401ae97.jpeg)](https://clouder.ypcloud.com/)
+
+[<img src="https://i.imgur.com/FTdU6lQ.jpg" width=auto height=auto>](https://clouder.ypcloud.com/)
+
+---
+###### tags: `雲耕隊`,`乒乓話網`,`社群` 
+---
+> [YPCloud Inc.](https://www.ypcloud.com)
+> [Clouder](https://clouder.ypcloud.com)
+> [name=Eugene]
