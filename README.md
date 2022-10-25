@@ -84,7 +84,7 @@ A service that display contents can be manipulated by uBot by Node-Red, and @Sma
 [<img src="https://i.imgur.com/FTdU6lQ.jpg" width=auto height=auto>](https://clouder.ypcloud.com/)
 
 ---
-###### tags: `Clouder`,`YPCloud` 
+###### tags: `Clouder`,`YPCloud`,`Community` 
 ---
 > [YPCloud Inc.](https://www.ypcloud.com)
 > [Clouder](https://clouder.ypcloud.com)
