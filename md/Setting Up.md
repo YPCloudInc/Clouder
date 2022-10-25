@@ -27,8 +27,10 @@ This is the app where all communication and updates are hold,
 
     6. Click the App Launcher button [![](https://i.imgur.com/3eNN7Er.png)](https://jujue.app/browser) on the top right corner
 
-    7. Now you can use your account to access GitLab, fBuilder, jBuilder, etc.
+    7. You may now use your account to access GitLab, fBuilder, jBuilder, etc.
     > [Run](https://run.ypcloud.com)
+
+---
 
 ## | GitLab
 1. Sign up a [GitLab](https://gitlab.com/) Account
