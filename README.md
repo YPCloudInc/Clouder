@@ -60,7 +60,7 @@ A website deployment tool for publishing websites to live servers in minutes.
 
 [<img align="left" height="50" src="https://i.imgur.com/D0BZj5F.png" />](https://jujue.app/browser)
 
-#### jujue.app
+#### Jujue.app
 The Mote Browser. 
 
 ### [jBoard](https://jboard.ypcloud.com/)
@@ -68,14 +68,14 @@ The Mote Browser.
 [<img align="left" width="100" height="70" src="https://i.imgur.com/5rrq8ur.png" />](https://jboard.ypcloud.com/)
 
 #### jBoard
-A service that display contents can be create by Jbuilder & display your digital dashboards and display boards from anywhere with JBoard
+A service that display contents can be create by jBuilder & display your digital dashboards and display boards from anywhere with jBoard
 
 ### [SmartScreen User Guide](https://github.com/motebus/ultrabook/blob/main/Ultranet%20Apps/SmartScreen%20User%20Guide.md)
 
 [<img align="left" width="100" height="50" src="https://i.imgur.com/Jl3YyH9.png" />](https://smartscreen.tv)
 
-#### Smartscreen
-A service that display contents can be manipulated by uBot by Node-Red, and @SmartScreenBot by telegram
+#### SmartScreen
+A service that display contents can be manipulated by uBot by Node-Red, and @SmartScreenBot by Telegram
 
 ---
 
