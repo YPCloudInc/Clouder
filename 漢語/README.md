@@ -8,7 +8,7 @@
 
 讓我們從設置我們的工作空間開始：
 
-### [平臺設置指引](md/Setting%20Up.md)
+### [平臺設置指引](漢語/md/設置.md)
 
 - Telegram 群組
 - [YP 帳號](https://account.ypcloud.com/#/login)
