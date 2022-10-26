@@ -83,7 +83,7 @@ GitLab is a DevOps software package that combines the ability to develop, secure
 
 ### [GitHub](https://github.com/)
 
-[<img align="left" width="70" height="70" src="https://user-images.githubusercontent.com/116076967/197919385-032a0699-0647-4db1-90a7-c96b748a5a50.png" />](https://github.com/ImperiusChen)
+[<img align="left" width="70" height="70" src="https://user-images.githubusercontent.com/116076967/197919385-032a0699-0647-4db1-90a7-c96b748a5a50.png" />](https://github.com/)
 
 GitHub provides the distributed version control of Git plus access control, bug tracking, software feature requests, task management, continuous integration, and wikis for every project.
 
@@ -91,6 +91,14 @@ GitHub provides the distributed version control of Git plus access control, bug 
 
 ### [HackMD](https://hackmd.io/)
 
-[<img align="left" width="70" height="70" src="https://user-images.githubusercontent.com/116076967/197919788-47f36567-449e-473f-9f35-6afd7e853c44.png" />](https://hackmd.io/@Imperius)
+[<img align="left" width="70" height="70" src="https://user-images.githubusercontent.com/116076967/197919788-47f36567-449e-473f-9f35-6afd7e853c44.png" />](https://hackmd.io/)
 
 HackMD offers a unified Markdown editor/preview which is familiar and well-suited to needs.
+
+<br>
+
+### [Visual Studio Code](https://code.visualstudio.com/)
+
+[<img align="left" width="70" height="70" src="https://user-images.githubusercontent.com/116076967/197925473-e5d9d103-61eb-4462-a329-12c24ffddf13.png" />](https://code.visualstudio.com/)
+
+VS Code is a source-code editor for Windows, Linux and macOS. Features include support for debugging, syntax highlighting, intelligent code completion, snippets, code refactoring, and embedded Git.
