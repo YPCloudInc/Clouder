@@ -4,17 +4,21 @@
 
 科技農耕隊 邀請您一同踏上，透過低程式碼 學習和創造的旅程！
 
-# 工作區設置
+---
+
+## 工作區設置
 
 讓我們從設置我們的工作空間開始：
 
 ### [平臺設置指引](https://github.com/YPCloudInc/Clouder/blob/main/%E6%BC%A2%E8%AA%9E/md/%E8%A8%AD%E7%BD%AE.md)
 
-- Telegram 群組
+- [Telegram 群組](https://telegram.org/)
 - [YP 帳號](https://account.ypcloud.com/#/login)
 - [GitLab](https://gitlab.com/) - [(Clone, Push, Pull)](md/git-clone.md)
 
-# Ultranet 建造工具
+---
+
+## Ultranet 建造工具
 
 ### [fBuilder 用戶指南](https://github.com/motebus/ultrabook/tree/main/Ultranet%20Apps/fBuilder)
 
@@ -54,7 +58,7 @@
 
 ---
 
-# Ultranet 應用程式
+## Ultranet 應用程式
 
 ### [Jujue-應用程式(App) 用戶指南](https://github.com/motebus/ultrabook/blob/main/Ultranet%20Apps/jujue-app%20User%20Guide.md)
 
