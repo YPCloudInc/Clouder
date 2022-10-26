@@ -39,7 +39,7 @@ A web-based dashboard creator. Create dashboards for digital maintenance systems
 [<img align="left" height="70" src="https://i.imgur.com/hRUqgoP.png">](https://run.ypcloud.com/)
 
 #### iBuilder
-iBuilder is a cloud-hosted Jupyter Notebook service with integrations for AI Models. 
+A cloud-hosted Jupyter Notebook service with integrations for AI Models. 
 
 - SOP Creating AI Models 
   - [iBuilder](md/iBuilder.md)
