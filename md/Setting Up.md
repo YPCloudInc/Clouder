@@ -15,7 +15,12 @@ This is the app where all communication and updates are hold,
 ## | YP Account 
 | First Priority - Single Sign On Purpose
 
-Create a YP Account:
+[<img align="left" height="50" src="https://i.imgur.com/D0BZj5F.png" />](https://jujue.app/browser)
+
+### [YP Account](https://account.ypcloud.com/#/login)
+
+The account to to access fBuilder, jBuilder, etc.
+
 1. Head to [account.ypcloud.com](https://account.ypcloud.com/#/login)
 
 2. Click on "Sign Up" and create your username and password
@@ -31,7 +36,7 @@ Create a YP Account:
 
 6. Click the App Launcher button [![](https://i.imgur.com/3eNN7Er.png)](https://jujue.app/browser) on the top right corner
 
-7. You may now use your account to access GitLab, fBuilder, jBuilder, etc.
+7. You may now use your account to access fBuilder, jBuilder, etc.
 > [Run](https://run.ypcloud.com)
 
 ---
@@ -80,7 +85,7 @@ GitLab is a DevOps software package that combines the ability to develop, secure
 
 [<img align="left" width="70" height="70" src="https://user-images.githubusercontent.com/116076967/197919385-032a0699-0647-4db1-90a7-c96b748a5a50.png" />](https://github.com/ImperiusChen)
 
-GitHub is an Internet hosting service for software development and version control using Git. It provides the distributed version control of Git plus access control, bug tracking, software feature requests, task management, continuous integration, and wikis for every project.
+GitHub provides the distributed version control of Git plus access control, bug tracking, software feature requests, task management, continuous integration, and wikis for every project.
 
 <br>
 
