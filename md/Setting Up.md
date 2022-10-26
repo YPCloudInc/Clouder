@@ -72,3 +72,20 @@ GitLab is a DevOps software package that combines the ability to develop, secure
     * Visit "[Clouder](https://github.com/YPCloudInc/Clouder/)" for more docs
     * Your code and other resources you develop will be stored in GitLab
     * Markdown (md) Syntax Guide - [English](https://www.markdownguide.org/basic-syntax/) / [中文](https://markdown.tw/) 
+
+---
+## Other Useful Platforms & Softwares
+
+### [GitHub](https://github.com/)
+
+[<img align="left" width="70" height="70" src="https://user-images.githubusercontent.com/116076967/197919385-032a0699-0647-4db1-90a7-c96b748a5a50.png" />](https://github.com/ImperiusChen)
+
+GitHub is an Internet hosting service for software development and version control using Git. It provides the distributed version control of Git plus access control, bug tracking, software feature requests, task management, continuous integration, and wikis for every project.
+
+<br>
+
+### [HackMD](https://hackmd.io/)
+
+[<img align="left" width="70" height="70" src="https://user-images.githubusercontent.com/116076967/197919788-47f36567-449e-473f-9f35-6afd7e853c44.png" />](https://hackmd.io/@Imperius)
+
+HackMD offers a unified Markdown editor/preview which is familiar and well-suited to needs.
