@@ -4,6 +4,8 @@ Welcome to the Clouders Community!
 
 Clouder is a worldwide community bringing you on the journey of learning & creating through low codes.
 
+---
+
 ## Workspace Setup
 
 Let's begin from setting up our working space:
@@ -13,6 +15,8 @@ Let's begin from setting up our working space:
 - [Telegram Groups](https://telegram.org/)
 - [YP Account](https://account.ypcloud.com/#/login)
 - [GitLab](https://gitlab.com/) - [(Clone, Push, Pull)](md/git-clone.md)
+
+---
 
 ## Ultranet Builders
 
