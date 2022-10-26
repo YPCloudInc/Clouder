@@ -33,6 +33,15 @@ This is the app where all communication and updates are hold,
 ---
 
 ## | GitLab
+
+### [GitLab](https://gitlab.com/)
+
+[<img align="left" width="70" height="70" src="https://user-images.githubusercontent.com/116076967/197919454-437fcccc-1d13-4514-9db0-6ed0fa399b7b.png" />](https://gitlab.com/)
+
+GitLab Inc. is an open-core company that operates GitLab, a DevOps software package that combines the ability to develop, secure, and operate software in a single application.
+
+<br>
+
 1. Sign up a [GitLab](https://gitlab.com/) Account
 
 2. Create a new repository by clicking "Create a project", "Create blank project" and name it "Clouder"
