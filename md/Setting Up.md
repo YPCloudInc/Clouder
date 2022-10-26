@@ -1,6 +1,8 @@
 # Setting Up <br>Telegram, YP Account, GitLab
 
-## | Telegram
+## | [Telegram](https://telegram.org/)
+
+[<img align="left" height="50" src="https://user-images.githubusercontent.com/116076967/197924025-8a924016-4cd8-435b-8305-429ae37cfc36.png" />](https://telegram.org/)
 
 This is the app where all communication and updates are hold,
 <br>make sure you have joined these groups on Telegram:
@@ -12,14 +14,14 @@ This is the app where all communication and updates are hold,
 - [JujueBot-Open](https://t.me/jujuebot_open)
 
 ---
-## | YP Account 
+## | [YP Account](https://account.ypcloud.com/#/login) 
 | First Priority - Single Sign On Purpose
 
-[<img align="left" height="50" src="https://i.imgur.com/D0BZj5F.png" />](https://jujue.app/browser)
-
-### [YP Account](https://account.ypcloud.com/#/login)
+[<img align="left" height="50" src="https://user-images.githubusercontent.com/116076967/197923800-e840dc33-8ede-4955-8b42-ae3fde4418a0.png" />](https://account.ypcloud.com/#/login)
 
 The account to to access fBuilder, jBuilder, etc.
+
+<br>
 
 1. Head to [account.ypcloud.com](https://account.ypcloud.com/#/login)
 
@@ -41,9 +43,7 @@ The account to to access fBuilder, jBuilder, etc.
 
 ---
 
-## | GitLab
-
-### [GitLab](https://gitlab.com/)
+## | [GitLab](https://gitlab.com/)
 
 [<img align="left" width="70" height="70" src="https://user-images.githubusercontent.com/116076967/197919454-437fcccc-1d13-4514-9db0-6ed0fa399b7b.png" />](https://gitlab.com/)
 
