@@ -38,7 +38,7 @@
 #### jBuilder
 基於網的版面創建工具。為數字維護系統、演示、交互式信息亭、定製網站等創建版面。
 
-### [iBuilder 人工智慧市集 指南](md/aim.md)
+### [iBuilder 人工智慧市集 指南](https://github.com/YPCloudInc/Clouder/blob/main/md/aim.md)
 
 [<img align="left" height="70" src="https://i.imgur.com/hRUqgoP.png">](https://run.ypcloud.com/)
 
@@ -46,8 +46,8 @@
 以 雲端 託管 Jupyter Notebook，集成 AI 模型。
 
 - 創建人工智慧(AI)模型 標準作業流程(SOP)
-  - [iBuilder](md/iBuilder.md)
-  - [TWCC](md/TWCC.md)
+  - [iBuilder](https://github.com/YPCloudInc/Clouder/blob/main/md/iBuilder.md)
+  - [TWCC](https://github.com/YPCloudInc/Clouder/blob/main/md/TWCC.md)
 
 ### [pBuilder 用戶指南](https://github.com/motebus/ultrabook/blob/main/Ultranet%20Apps/pBuilder%20User%20Guide.md)
 
