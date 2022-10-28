@@ -8,10 +8,19 @@ This is the app where all communication and updates are hold,
 <br>make sure you have joined these groups on Telegram:
 
 - [Clouder](https://t.me/clouder_open)
+>> Clouder Community Updates
 
-- [clockin://open](https://t.me/clockin_open)
+- [open://clockin](https://t.me/clockin_open)
+>> Twinbot
 
 - [JujueBot-Open](https://t.me/jujuebot_open)
+>> Chatbot
+
+- [open://form](https://t.me/form_open)
+>> Formbot
+
+- [open://console](https://t.me/console_open)
+>> Clouder Debug Console
 
 ---
 ## | [YP Account](https://account.ypcloud.com/#/login) 
