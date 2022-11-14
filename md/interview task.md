@@ -8,6 +8,8 @@ you have been requested to create your personal ".me" jBoard using jBuilder.
 
 This md will help you with the task. 
 
+[Procedure Applying YPCloud Inc.](https://www.ypcloud.com/#HR)
+
 ---
 ## Getting Started
 ![0-whatisjb](https://i.imgur.com/MK96KBl.jpg)
