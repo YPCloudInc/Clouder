@@ -1,18 +1,20 @@
 # jBuilder Intro Task
 
-Greetings! As part of your YP interview process, you have been requested to create your personal ".me" jBoard using jBuilder. 
+Greetings! 
+
+As part of your YP interview process, 
+
+you have been requested to create your personal ".me" jBoard using jBuilder. 
 
 This md will help you with the task. 
 
 ---
 ## Getting Started
-
 ![0-whatisjb](https://i.imgur.com/MK96KBl.jpg)
 
 ## Access jBuilder
-Create your ***[YP Account](https://github.com/motebus/ultrabook/blob/main/Ultra/yp%20account.md)***
-
-Visit **[jBuilder](https://jbuilder.ypcloud.com)**
+1. Create your ***[YP Account](https://github.com/motebus/ultrabook/blob/main/Ultra/yp%20account.md)***
+2. Visit **[jBuilder](https://jbuilder.ypcloud.com)**
 
 ## jBuilder Tutorial Videos
 YPCloud YouTube Channel (CC available)
@@ -20,10 +22,9 @@ YPCloud YouTube Channel (CC available)
 - jBuilder Beginner's Guide #2 - ***[Dock Builder](https://www.youtube.com/watch?v=eQV3zaiLxyY&t=50s)*** 
 
 ## jBuilder User Guide 
-Ultrabook User Guide to jBuilder: ***[User Guide](https://github.com/motebus/ultrabook/tree/main/Ultranet%20Apps/jBuilder)***
-
+### [Ultrabook User Guide to jBuilder](https://github.com/motebus/ultrabook/tree/main/Ultranet%20Apps/jBuilder)
 ### [jBuilder FAQs](https://github.com/motebus/ultrabook/blob/main/Ultranet%20Apps/jBuilder/FAQ.md)
-※ Please read it before emailing questions
+> Please read it before emailing questions
 
 ---
 ## Your Task
