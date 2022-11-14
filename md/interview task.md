@@ -1,13 +1,15 @@
 # jBuilder Intro Task
 
-Greetings! As part of your YP interview process, you have been requested to create your personal .me jBoard using jBuilder. 
+Greetings! As part of your YP interview process, you have been requested to create your personal ".me" jBoard using jBuilder. 
+
 This md will help you with the task. 
 
+---
 ## Getting Started
 
 ![0-whatisjb](https://i.imgur.com/MK96KBl.jpg)
 
-## Open jBuilder
+## Access jBuilder
 Create your ***[YP Account](https://github.com/motebus/ultrabook/blob/main/Ultra/yp%20account.md)***
 
 Visit **[jBuilder](https://jbuilder.ypcloud.com)**
@@ -23,20 +25,23 @@ Ultrabook User Guide to jBuilder: ***[User Guide](https://github.com/motebus/ult
 ### [jBuilder FAQs](https://github.com/motebus/ultrabook/blob/main/Ultranet%20Apps/jBuilder/FAQ.md)
 ※ Please read it before emailing questions
 
-
-
-
-
+---
 ## Your Task
-- Login to jBuilder.
 
-- Create individual boards with content such as `page://url`, `page://image`, `page://slider`, `page://youtube`. Refer to the jBuilder User Guide and tutorial videos for details.
-- In the **Dock Builder** work area create a jBoard and save it as ==XXX.me== <br> (XXX = your name)
+1. Login to jBuilder
+
+2. Create individual boards with content such as `page://url`, `page://image`, `page://slider`, `page://youtube`
+> Refer to the jBuilder User Guide and tutorial videos for details.
+
+- In the **Dock Builder** work area create a jBoard
+> and save it as ==XXX.me== <br> (XXX = your name)
+
 - Add content to your XXX.me jBoard (individual boards or TV channel)
+
 - Submit the url of your completed jBoard (send to HR)
-https://jboard.ypcloud.com/?q=XXX.me
+> e.g. https://jboard.ypcloud.com/?q=XXX.me
 
+---
 ### Recommendations
-
 - Have at least 3 pages on your jBoard. 
 - [Basic steps](https://github.com/motebus/ultrabook/blob/main/Ultranet%20Apps/jBuilder/Process%20of%20making%20a%20jBoard.md)
