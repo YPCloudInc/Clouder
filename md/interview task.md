@@ -48,3 +48,13 @@ YPCloud YouTube Channel (CC available)
 ### Recommendations
 - Have at least 3 pages on your jBoard. 
 - [Basic steps](https://github.com/motebus/ultrabook/blob/main/Ultranet%20Apps/jBuilder/Process%20of%20making%20a%20jBoard.md)
+
+---
+
+### Bonus Tasks
+
+[Guide](https://github.com/YPCloudInc/Clouder/edit/main/README.md)
+
+[![](https://user-images.githubusercontent.com/116076967/197033026-8a4f59fb-3a37-4835-9554-ba576401ae97.jpeg)](https://clouder.ypcloud.com/)
+
+[![](https://user-images.githubusercontent.com/116076967/198514847-13ff6bc1-893d-4f5d-9f0a-4efabbe2aded.jpeg)](https://clouder.ypcloud.com/)
