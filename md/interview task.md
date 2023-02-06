@@ -1,34 +1,54 @@
-# jBuilder Intro Task
+# YP Interview Task
 
 Greetings! 
 
 As part of your YP interview process, 
 
-you have been requested to create your personal ".me" jBoard using jBuilder. 
+you have been requested to:
+
+1. create your personal ".me" jBoard channel using jBuilder;
+2. creat 2 FlowBots (low code programs) using fBuilder;
+3. familiarize yourself with Clouder Tools.
 
 This md will help you with the task. 
 
-[Procedure Applying YPCloud Inc.](https://www.ypcloud.com/#HR)
+> [Procedure Applying YPCloud Inc.](https://www.ypcloud.com/#HR)
 
 ---
-## Getting Started
-![0-whatisjb](https://i.imgur.com/MK96KBl.jpg)
+# jBoard Task
+
+### [jBuilder User Guide](https://github.com/motebus/ultrabook/tree/main/Ultranet%20Apps/jBuilder)
+
+[<img align="left" height="70" src="https://i.imgur.com/p9jaFdK.png">](https://run.ypcloud.com/)
+
+#### jBuilder
+A web-based dashboard creator. Create dashboards for digital maintenance systems, presentations, interactive kiosks, customised websites and more.
+
+### [jBoard](https://jboard.ypcloud.com/)
+
+[<img align="left" width="100" height="70" src="https://i.imgur.com/5rrq8ur.png" />](https://jboard.ypcloud.com/)
+
+#### jBoard
+A service that display contents can be create by jBuilder & display your digital dashboards and display boards from anywhere with jBoard
 
 ## Access jBuilder
+
 1. Create your ***[YP Account](https://github.com/motebus/ultrabook/blob/main/Ultra/yp%20account.md)***
+
 2. Visit **[jBuilder](https://jbuilder.ypcloud.com)**
 
 ## jBuilder Tutorial Videos
+
 YPCloud YouTube Channel (CC available)
+
 - jBuilder Beginner's Guide #1 - ***[making jBoard pages](https://www.youtube.com/watch?v=N1Rp2mCwv0c)*** 
+
 - jBuilder Beginner's Guide #2 - ***[Dock Builder](https://www.youtube.com/watch?v=eQV3zaiLxyY&t=50s)*** 
 
-## jBuilder User Guide 
-### [Ultrabook User Guide to jBuilder](https://github.com/motebus/ultrabook/tree/main/Ultranet%20Apps/jBuilder)
 ### [jBuilder FAQs](https://github.com/motebus/ultrabook/blob/main/Ultranet%20Apps/jBuilder/FAQ.md)
+
 > Please read it before emailing questions
 
----
 ## Your Task
 
 1. Login to jBuilder
@@ -44,16 +64,37 @@ YPCloud YouTube Channel (CC available)
 - Submit the url of your completed jBoard (send to HR)
 > e.g. https://jboard.ypcloud.com/?q=XXX.me
 
----
 ### Recommendations
 - Have at least 3 pages on your jBoard. 
+
 - [Basic steps](https://github.com/motebus/ultrabook/blob/main/Ultranet%20Apps/jBuilder/Process%20of%20making%20a%20jBoard.md)
 
 ---
 
-### Bonus Tasks
+# FlowBot Task
 
-[Guide](https://github.com/YPCloudInc/Clouder/edit/main/README.md)
+
+### [fBuilder User Guide](https://github.com/motebus/ultrabook/tree/main/Ultranet%20Apps/fBuilder)
+
+[<img align="left" width="70" height="70" src="https://i.imgur.com/lWgj5Fr.jpg" />](https://run.ypcloud.com/)
+
+#### fBuilder
+A flow-based visual programming tool for easily deploying microservices and creating IoT control management systems.
+
+- [Twin Clocking Tutorial](md/twin.md)
+- [Chatbot Tutorial](md/chatbot.md)  
+- [Form & Formbot Tutorial](md/form.md)
+
+## Your Task
+Creat 2 flowbots (low code programs) as listed above using fBuilder.
+
+---
+
+# Clouder Guidebook
+
+[Hi Clouders!](https://github.com/YPCloudInc/Clouder/edit/main/README.md)
+
+---
 
 [![](https://user-images.githubusercontent.com/116076967/197033026-8a4f59fb-3a37-4835-9554-ba576401ae97.jpeg)](https://clouder.ypcloud.com/)
 
