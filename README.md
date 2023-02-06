@@ -10,7 +10,7 @@ Clouder is a worldwide community bringing you on the journey of learning & creat
 
 Let's begin from setting up our working space:
 
-### [Platforms Guide](md/Setting%20Up.md)
+### Platforms Guide ([LINK](md/Setting%20Up.md))
 
 - [Telegram Groups](https://telegram.org/)
 - [YP Account](https://account.ypcloud.com/#/login)
