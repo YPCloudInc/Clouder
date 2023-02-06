@@ -83,7 +83,19 @@ A service that display contents can be manipulated by uBot by Node-Red, and @Sma
 
 ---
 
-[![](https://user-images.githubusercontent.com/116076967/197033026-8a4f59fb-3a37-4835-9554-ba576401ae97.jpeg)](https://clouder.ypcloud.com/)
+## Clouder Checklist
+
+| Ultra Builder | Tasks | Description |
+| -------- | -------- | -------- |
+| fBuilder | @@abc-twin | Clocking at 09:00 12:00 18:00 00:00 |
+| | @@abc-chatbot | Hi echo @@chatbot |
+| | @@abc-form | Google form to worker |
+| jBuilder | abc.me | Personal TV channel|
+| | xyz.miki | Miki Board git.page |
+| iBuilder | dog-cat.ipynb | Al Model Training + MIflow Tracking |
+| | abc-gradio.ipynb | Al Model Influence + Web Demo |
+| pBuilder | abc.page | Static Page Web |
+| | xyz.page | Dynamic Page Web |
 
 [![](https://user-images.githubusercontent.com/116076967/198514847-13ff6bc1-893d-4f5d-9f0a-4efabbe2aded.jpeg)](https://clouder.ypcloud.com/)
 
