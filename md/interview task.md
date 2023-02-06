@@ -57,7 +57,7 @@ YPCloud YouTube Channel (CC available)
 > Refer to the jBuilder User Guide and tutorial videos for details.
 
 - In the **Dock Builder** work area create a jBoard
-> and save it as ==XXX.me== <br> (XXX = your name)
+> and save it as "XXX.me" <br> (XXX = your name)
 
 - Add content to your XXX.me jBoard (individual boards or TV channel)
 
