@@ -1,5 +1,7 @@
 # [Hi Clouders!](https://clouder.ypcloud.com/)
 
+[<img align="left" height="100" src="https://i.imgur.com/sl2xU5X.png">](https://clouder.ypcloud.com/)
+
 Welcome to the Clouders Community! 
 
 Clouder is a worldwide community bringing you on the journey of learning & creating through low codes.
