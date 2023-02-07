@@ -105,7 +105,7 @@ Creat 2 flowbots (low code programs) as listed above using fBuilder.
 | | @@abc-form | Google form to worker |
 | jBuilder | abc.me | Personal .me channel|
 | | xyz.miki | Miki Board git.page |
-| iBuilder | dog-cat.ipynb | Al Model Training + MIflow Tracking |
+| iBuilder | dog-cat.ipynb | Al Model Training + MLFlow Tracking |
 | | abc-gradio.ipynb | Al Model Influence + Web Demo |
 | pBuilder | abc.page | Static Page Web |
 | | xyz.page | Dynamic Page Web |
