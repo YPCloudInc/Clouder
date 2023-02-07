@@ -7,7 +7,7 @@ As part of your YP interview process,
 you have been requested to:
 
 1. create your personal ".me" jBoard channel using jBuilder;
-2. creat 2 FlowBots (low code programs) using fBuilder;
+2. creat at least 2 FlowBots (low code programs) using fBuilder;
 3. familiarize yourself with Clouder Tools.
 
 This md will help you with the task. 
@@ -61,7 +61,7 @@ YPCloud YouTube Channel (CC available)
 
 - Add content to your XXX.me jBoard (individual boards or TV channel)
 
-- Submit the url of your completed jBoard (send to HR)
+- Submit the URL generated from your completed jBoard to hr@ypcloud.com
 > e.g. https://jboard.ypcloud.com/?q=XXX.me
 
 ### Recommendations
