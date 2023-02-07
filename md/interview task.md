@@ -47,7 +47,7 @@ YPCloud YouTube Channel (CC available)
 
 ### [jBuilder FAQs](https://github.com/motebus/ultrabook/blob/main/Ultranet%20Apps/jBuilder/FAQ.md)
 
-> Please read it before emailing questions
+> Please read the FAQ If you have any questions, and if necessary, you may contact customer service 123@ypcloud.com
 
 ## Your Task
 
