@@ -57,7 +57,7 @@ YPCloud YouTube Channel (CC available)
 > Refer to the jBuilder User Guide and tutorial videos for details.
 
 - In the **Dock Builder** work area create a jBoard
-> and save it as "ABC.me" <br> (ABC = your name)
+> and save it as "ABC.me" (replace "ABC" with your name)
 
 - Add content to your ABC.me jBoard (individual boards or TV channel)
 
