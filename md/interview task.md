@@ -57,12 +57,12 @@ YPCloud YouTube Channel (CC available)
 > Refer to the jBuilder User Guide and tutorial videos for details.
 
 - In the **Dock Builder** work area create a jBoard
-> and save it as "XXX.me" <br> (XXX = your name)
+> and save it as "ABC.me" <br> (ABC = your name)
 
-- Add content to your XXX.me jBoard (individual boards or TV channel)
+- Add content to your ABC.me jBoard (individual boards or TV channel)
 
 - Submit the URL generated from your completed jBoard to hr@ypcloud.com
-> e.g. https://jboard.ypcloud.com/?q=XXX.me
+> e.g. https://jboard.ypcloud.com/?q=ABC.me
 
 ### Recommendations
 - Have at least 3 pages on your jBoard. 
@@ -103,7 +103,7 @@ Creat 2 flowbots (low code programs) as listed above using fBuilder.
 | fBuilder | @@abc-twin | Clocking at 09:00 12:00 18:00 00:00 |
 | | @@abc-chatbot | Hi echo @@chatbot |
 | | @@abc-form | Google form to worker |
-| jBuilder | abc.me | Personal TV channel|
+| jBuilder | abc.me | Personal .me channel|
 | | xyz.miki | Miki Board git.page |
 | iBuilder | dog-cat.ipynb | Al Model Training + MIflow Tracking |
 | | abc-gradio.ipynb | Al Model Influence + Web Demo |
