@@ -29,9 +29,9 @@
 #### fBuilder
 基於「流」的可視化編程工具，用於輕鬆部署微服務和創建物聯網控制管理系統。
 
-- [雙生計時機器人 教學](md/twin.md)
-- [聊天機器人 教學](md/chatbot.md)  
-- [表單 及 表單機器人 教學](md/form.md)
+- [雙生計時機器人 教學](https://github.com/YPCloudInc/Clouder/blob/main/md/twin.md)
+- [聊天機器人 教學](https://github.com/YPCloudInc/Clouder/blob/main/md/chatbot.md)  
+- [表單 及 表單機器人 教學](https://github.com/YPCloudInc/Clouder/blob/main/md/form.md)
 
 ### [jBuilder 用戶指南](https://github.com/motebus/ultrabook/tree/main/Ultranet%20Apps/jBuilder)
 
