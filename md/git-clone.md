@@ -29,7 +29,7 @@ git pull
 git add .
 ```
 ```
-git commit -m "xxx"
+git commit -m "abc"
 ```
 ```
 git push
