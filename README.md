@@ -100,6 +100,9 @@ A service that display contents can be manipulated by uBot by Node-Red, and @Sma
 | | xyz.page | Dynamic Page Web |
 
 ---
+More info in [Ultrabook](https://github.com/motebus/ultrabook)
+
+---
 [![](https://user-images.githubusercontent.com/116076967/198514847-13ff6bc1-893d-4f5d-9f0a-4efabbe2aded.jpeg)](https://clouder.ypcloud.com/)
 > replace "abc" with your name
 
