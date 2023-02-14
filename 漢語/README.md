@@ -84,6 +84,8 @@
 透過 Node-Red 的 uBot 及 Telegram 的 @SmartScreenBot 操作，編輯顯示內容。
 
 ---
+更多資訊在 [Ultrabook](https://github.com/motebus/ultrabook)
+---
 
 [![](https://user-images.githubusercontent.com/116076967/197033026-8a4f59fb-3a37-4835-9554-ba576401ae97.jpeg)](https://clouder.ypcloud.com/)
 
