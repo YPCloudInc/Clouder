@@ -1,30 +1,30 @@
-# On a page of your GitLab projects
+# 在您的 GitLab 計劃的頁面裡
 
-## Step 1 - Copy
-- Select "Clone" and copy the URL (Clone with HTTPS)
+## 步驟1 - Copy 複製
+- 選擇「Clone」並複制 URL（使用 HTTPS 克隆）
  
 ---
 
-# Open the Terminal of your computer
+# 打開電腦的終端 Terminal
 
-## Step 2 - Clone
+## 步驟2 - Clone 克隆
 ```
-git clone "your git project url"
-```
-
-### Use local UI interface to add stuff you want after that
-
-## Step 3 
-```
-cd xxx(your project name)
+git clone "您的 git 計劃 url"
 ```
 
-## Step 4 - Pull
+### 使用 Local 的 UI 界面添加您想要的內容
+
+## 步驟3 
+```
+cd xxx(您的計劃名稱)
+```
+
+## 步驟4 - 拉 Pull
 ```
 git pull
 ```
 
-## Step 5 - Push
+## 步驟5 - 推 Push
 ```
 git add .
 ```
@@ -35,7 +35,7 @@ git commit -m "xxx"
 git push
 ```
 
-### Example
+### 例子 Example
 
 ![](https://user-images.githubusercontent.com/116076967/197130448-dc8a600e-5630-40a5-ab4b-2ef74b09f146.png)
 
