@@ -16,7 +16,7 @@
 
 - [Telegram 群組](https://telegram.org/)
 - [YP 帳號](https://account.ypcloud.com/#/login)
-- [GitLab](https://gitlab.com/) - ([Clone, Push, Pull](https://github.com/YPCloudInc/Clouder/blob/main/md/git-clone.md))
+- [GitLab](https://gitlab.com/) - ([Clone, Push, Pull](https://github.com/YPCloudInc/Clouder/blob/main/%E6%BC%A2%E8%AA%9E/md/git-%E5%85%8B%E9%9A%86.md))
 
 ---
 
