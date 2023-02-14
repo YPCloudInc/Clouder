@@ -12,7 +12,7 @@
 git clone "your git project url"
 ```
 
-### Use local UI interface to add stuff you want after that
+### Use local UI interface to add in content you want
 
 ## Step 3 
 ```
