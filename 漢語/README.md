@@ -84,12 +84,27 @@
 透過 Node-Red 的 uBot 及 Telegram 的 @SmartScreenBot 操作，編輯顯示內容。
 
 ---
+
+## 雲耕隊 清單
+
+| Ultra Builder | 任務 | 說明 |
+| -------- | -------- | -------- |
+| fBuilder | @@abc-twin | 於 09:00 12:00 18:00 00:00 執行打卡 |
+| | @@abc-chatbot | Hi echo @@chatbot |
+| | @@abc-form | Google 表單 至 表單機器人 |
+| jBuilder | abc.me | 個人 .me 頻道 |
+| | xyz.miki | Miki 頁面 git.page |
+| iBuilder | dog-cat.ipynb | Al 模型測試 + MLFlow 逕跡 |
+| | abc-gradio.ipynb | Al 模型影響力 + Web 演示 |
+| pBuilder | abc.page | 靜態頁面網頁 |
+| | xyz.page | 動態頁面網頁 |
+
+---
 更多資訊在 [Ultrabook](https://github.com/motebus/ultrabook)
 ---
 
-[![](https://user-images.githubusercontent.com/116076967/197033026-8a4f59fb-3a37-4835-9554-ba576401ae97.jpeg)](https://clouder.ypcloud.com/)
-
 [![](https://user-images.githubusercontent.com/116076967/198514847-13ff6bc1-893d-4f5d-9f0a-4efabbe2aded.jpeg)](https://clouder.ypcloud.com/)
+> 用您的名字取代「abc」
 
 [<img src="https://i.imgur.com/FTdU6lQ.jpg" width=auto height=auto>](https://clouder.ypcloud.com/)
 
