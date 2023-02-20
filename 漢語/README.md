@@ -14,9 +14,9 @@
 
 ### 平臺設置指引 ([連結](https://github.com/YPCloudInc/Clouder/blob/main/%E6%BC%A2%E8%AA%9E/md/%E8%A8%AD%E7%BD%AE.md))
 
-- [Telegram 群組](https://telegram.org/)
-- [YP 帳號](https://account.ypcloud.com/#/login)
-- [GitLab](https://gitlab.com/) - ([Clone, Push, Pull](https://github.com/YPCloudInc/Clouder/blob/main/%E6%BC%A2%E8%AA%9E/md/git-%E5%85%8B%E9%9A%86.md))
+- [Telegram 群組](https://github.com/YPCloudInc/Clouder/blob/main/%E6%BC%A2%E8%AA%9E/md/%E8%A8%AD%E7%BD%AE.md)
+- [YP 帳號](https://github.com/YPCloudInc/Clouder/blob/main/%E6%BC%A2%E8%AA%9E/md/%E8%A8%AD%E7%BD%AE.md)
+- [GitLab](https://github.com/YPCloudInc/Clouder/blob/main/%E6%BC%A2%E8%AA%9E/md/%E8%A8%AD%E7%BD%AE.md) - ([Clone, Push, Pull](https://github.com/YPCloudInc/Clouder/blob/main/%E6%BC%A2%E8%AA%9E/md/git-%E5%85%8B%E9%9A%86.md))
 
 ---
 
