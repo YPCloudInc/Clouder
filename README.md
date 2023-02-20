@@ -14,9 +14,9 @@ Let's begin from setting up our working space:
 
 ### Platforms Guide ([LINK](md/Setting%20Up.md))
 
-- [Telegram Groups](https://telegram.org/)
-- [YP Account](https://account.ypcloud.com/#/login)
-- [GitLab](https://gitlab.com/) - ([Clone, Push, Pull](md/git-clone.md))
+- [Telegram Groups](md/Setting%20Up.md)
+- [YP Account](md/Setting%20Up.md)
+- [GitLab](md/Setting%20Up.md) - ([Clone, Push, Pull](md/git-clone.md))
 
 ---
 
