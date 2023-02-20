@@ -14,6 +14,9 @@ This md will help you with the task.
 
 > [Procedure Applying YPCloud Inc.](https://www.ypcloud.com/#HR)
 
+
+### Platforms Guide ([LINK](md/Setting%20Up.md))
+
 ---
 # jBoard Task
 
