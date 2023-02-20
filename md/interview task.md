@@ -84,9 +84,9 @@ YPCloud YouTube Channel (CC available)
 #### fBuilder
 A flow-based visual programming tool for easily deploying microservices and creating IoT control management systems.
 
-- [Twin Clocking Tutorial](md/twin.md)
-- [Chatbot Tutorial](md/chatbot.md)  
-- [Form & Formbot Tutorial](md/form.md)
+- [Twin Clocking Tutorial](twin.md)
+- [Chatbot Tutorial](chatbot.md)  
+- [Form & Formbot Tutorial](form.md)
 
 ## Your Task
 Creat 2 flowbots (low code programs) as listed above using fBuilder.
