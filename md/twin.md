@@ -108,7 +108,7 @@ ioc://-1001840835713
 
 * Open the debug window in the left-hand sidebar. If your Errmsg is "OK" after injecting the node and you see your message in the Telegram [clockin://open](https://t.me/clockin_open) group, your test has been successful.
 
-[<img src="https://i.imgur.com/09vr0PF.png">](https://run.ypcloud.com)
+[<img src="https://i.imgur.com/09vr0PF.png" width=300>](https://run.ypcloud.com)
 
 ### [QRun](https://github.com/motebus/ultrabook/blob/main/Ultranet%20Apps/fBuilder/qrun.md) your twin
 * After the successful test
