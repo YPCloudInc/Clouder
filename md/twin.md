@@ -8,7 +8,7 @@ The “twin” chould be set clocking in 4 times a day: 00:00, 09:00, 12:00, and
 * fBuilder URL - [Run](https://run.ypcloud.com)
 * Login with your YP Account, choose "fBuilder" then "GO"
 * The page UI you see will look like this: 
-[<img src="https://i.imgur.com/i8YrWeI.jpg">](https://run.ypcloud.com)
+[<img src="[https://i.imgur.com/i8YrWeI.jpg](https://s3.ypcloud.com/hackmd/uploads/upload_26e6f21e5309352e76d2389271b6c81a.png)">](https://run.ypcloud.com)
 
 ### Start a new fBuilder project 
 * Click on the <img src="https://i.imgur.com/66dK5wO.png" width=20 height=20> button in the top right corner and select "Create Project" 
