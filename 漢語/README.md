@@ -33,7 +33,7 @@
 - [聊天機器人 教學](https://github.com/YPCloudInc/Clouder/blob/main/%E6%BC%A2%E8%AA%9E/md/%E8%81%8A%E5%A4%A9%E6%A9%9F%E5%99%A8%E4%BA%BA.md)  
 - [表單 及 表單機器人 教學](https://github.com/YPCloudInc/Clouder/blob/main/md/form.md)
 
-### [jBuilder 用戶指南](https://github.com/motebus/ultrabook/tree/main/Ultranet%20Apps/jBuilder)
+### [jBuilder 用戶指南](https://github.com/YPCloudInc/Clouder/blob/main/%E6%BC%A2%E8%AA%9E/md/jBuilder.md)
 
 [<img align="left" height="70" src="https://i.imgur.com/p9jaFdK.png">](https://run.ypcloud.com/)
 
