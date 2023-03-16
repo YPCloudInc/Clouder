@@ -9,7 +9,6 @@
   * [jBoard 範例](#jBoard-範例)
   * [看板庫清單](#看板庫清單)
   * [Dock 庫清單](#Dock-庫清單)
-  * [YP 面試任務](#YP-面試任務)
 
 #### 連結
 * [jBoard](https://jboard.ypcloud.com/)
@@ -96,7 +95,7 @@ jBuilder 有兩個主要的工作區域。 <br>
 - https://jboard.ypcloud.com/?q=rita.me
 
 ---
-## 板面庫清單
+## 看板庫清單
 <img src="https://i.imgur.com/gD2OhRz.png" width=760 height=150>
 
 - 公開清單和私人清單
