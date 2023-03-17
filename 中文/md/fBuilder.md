@@ -234,10 +234,10 @@ return msg;
 
 # QRun
 
-完成流程後，點擊[<img src="https://i.imgur.com/ZUuFPvK.png" width=20 height=20>](https://run.ypcloud.com)（右上角），然後選擇 "QRun"
+完成流程後，點擊[<img src="https://i.imgur.com/66dK5wO.png" width=20 height=20>](https://run.ypcloud.com)（右上角），然後選擇 "QRun"
 
 選擇以下一個進行部署
-[<img src="https://i.imgur.com/5zRsBQ9.png">](https://run.ypcloud.com)
+[<img src="https://i.imgur.com/ZUuFPvK.png">](https://run.ypcloud.com)
 
 如果您的頁面上顯示 "Deploy success" 或 "Timeout" 消息，則您的 QRun 已成功
 
