@@ -1,4 +1,6 @@
-# 目錄
+# jBuilder 使用者指南
+
+## 目錄
   * [甚麼是 jBoard](#甚麼是-jBoard)
   * [jBuilder 與 Dock Builder](#jBuilder-與-Dock-Builder)
   * [如何進入 Dock Builder](#如何進入-Dock-Builder)
