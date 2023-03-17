@@ -232,3 +232,39 @@ return msg;
 
 ---
 
+# QRun
+
+完成流程後，點擊[<img src="https://i.imgur.com/66dK5wO.png" width=20 height=20>](https://run.ypcloud.com)（右上角），然後選擇 "QRun"
+
+選擇以下一個進行部署
+[<img src="https://i.imgur.com/5zRsBQ9.png">](https://run.ypcloud.com)
+
+如果您的頁面上顯示 "Deploy success" 或 "Timeout" 消息，則您的 QRun 已成功
+
+如果顯示其他內容，則您的 QRun 失敗
+> (尋求幫助)[<img src="https://i.imgur.com/GV3RRGW.png">](https://run.ypcloud.com)
+
+在登出 fBuilder / 關機後，檢查您的流程是否正常運行（通過 Telegram Group、ioc 等）
+> 使用後請記得登出 fBuilder！
+
+---
+
+# 流程導入和導出
+
+## 導入流程
+導入 flow.json 或 xxx.flow
+
+[<img src="https://i.imgur.com/U82C32z.png" width=790 height=437>](https://run.ypcloud.com)
+
+粘貼您的流程或選擇流程文件
+
+[<img src="https://i.imgur.com/ELGRqsg.png" width=790 height=437>](https://run.ypcloud.com)
+
+---
+
+## 導出流程
+您可以導出特定節點或整個流程
+
+您可以下載 json 文件或將 json 複製到剪貼板（& "ctrl + v" 直接粘貼到任何地方
+
+[<img src="https://i.imgur.com/L8p0Qwt.png">](https://run.ypcloud.com)
