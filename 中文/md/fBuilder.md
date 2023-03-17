@@ -154,3 +154,81 @@ return msg;
 
 ---
 
+### | set [<img src="https://i.imgur.com/mrUJBKE.png" width=110 height=30>](https://run.ypcloud.com)
+* 設置裝置名稱（例如您的容器），將“EiName”字段設置為您想要的名稱
+
+* 然後將注入節點連接到設置節點，部署並單擊按鈕
+
+* 裝置現在設置為該名稱
+
+> [<img src="https://i.imgur.com/5N7rr5q.png" width=300 height=200>](https://run.ypcloud.com)
+
+---
+
+### | payload [<img src="https://i.imgur.com/XlbGGpk.png" width=110 height=30>](https://run.ypcloud.com)
+* 配置其他 Motechat 裝置可以接收的有效載荷
+
+* 它是 JSON 格式的
+
+---
+
+### | function [<img src="https://i.imgur.com/QX7O8PO.png" width=110 height=30>](https://run.ypcloud.com)
+* 基本節點中最通用的節點之一
+
+* 允許對傳遞的消息運行 JavaScript 代碼
+
+* 默認情況下，消息作為名為 msg 的對象傳入，並且函數將使用 `return msg;` 行返回輸入
+
+* 返回“null”結束流程
+
+* 只要返回一個 msg 對象，就可以多種方式工作，返回其他任何內容都會導致錯誤。
+
+---
+
+### | send [<img src="https://i.imgur.com/LQ1jsMD.png" width=110 height=30>](https://run.ypcloud.com)
+> [<img src="https://i.imgur.com/Y9R4kge.png" width=120 height=35>](https://run.ypcloud.com)
+
+* 向其他設備或通道發送有效載荷。
+
+* 發送節點有兩個輸出端口：頂部的用於成功發送，底部的用於錯誤
+
+* 通過 >>xxx 發送 DDN 和主題由 xxx://xxx（例如：>>comm,tg://-12345678）
+
+---
+
+### | call [<img src="https://i.imgur.com/cF7R86U.png" width=110 height=30>](https://run.ypcloud.com)
+* 可用於請求多個 Motechat 配置設備的服務
+
+* 這將用於獲取存儲在 YPCloud 的 Object Store 中的信息
+
+---
+
+### | switch [<img src="https://i.imgur.com/UuE2qCf.png" width=110 height=30>](https://run.ypcloud.com)
+* 根據條件將消息路由到不同的輸出端口
+
+* 可以根據特定條件選擇不同的輸出路徑
+
+---
+
+### | debug [<img src="https://i.imgur.com/zdAEqm1.png" width=110 height=30>](https://run.ypcloud.com)
+> [<img src="https://i.imgur.com/jJW9AuB.png" width=120 height=35>](https://run.ypcloud.com)
+
+選項
+> [<img src="https://i.imgur.com/AQMj9hI.png" width=400 height=300>](https://run.ypcloud.com) [<img src="https://i.imgur.com/hkZe0nE.png" width=400 height=300>](https://run.ypcloud.com)
+
+---
+
+### | comment [<img src="https://i.imgur.com/URNpYxU.png" width=110 height=30>](https://run.ypcloud.com)
+* 用於為流程添加文本註釋
+
+---
+
+### <h3 id="1">| on/ret event</h3> [<img src="https://i.imgur.com/6mbbHyl.png" width=110 height=30>](https://run.ypcloud.com) & [<img src="https://i.imgur.com/HCFQkIE.png" width=110 height=30>](https://run.ypcloud.com)
+它用於在容器上接收來自其他容器的 Motechat 消息
+
+* 這些節點的連接方式如下
+
+> [<img src="https://i.imgur.com/6JCxVpb.png" width=450 height=120>](https://run.ypcloud.com)
+
+---
+
