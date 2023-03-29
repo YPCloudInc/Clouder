@@ -85,6 +85,7 @@ jBuilder 有兩個主要的工作區域。 <br>
 ## [jBoard 製作過程](https://github.com/motebus/ultrabook/blob/main/Ultranet%20Apps/jBuilder/Process%20of%20making%20a%20jBoard.md)
 
 ### 教學影片
+* jBuilder - [指南](https://www.youtube.com/watch?v=3uBVg3pzuUc)
 * jBuilder 初學者指南 #1 - [製作 jBoard 頁面](https://www.youtube.com/watch?v=N1Rp2mCwv0c)
 * jBuilder 初學者指南 #2 - [Dock Builder](https://www.youtube.com/watch?v=eQV3zaiLxyY)
 
