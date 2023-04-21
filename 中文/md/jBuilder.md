@@ -87,6 +87,7 @@ jBuilder 有兩個主要的工作區域。 <br>
 
 ### 教學影片
 * jBuilder - [指南](https://www.youtube.com/watch?v=3uBVg3pzuUc)
+* jBuilder - [page://tg](https://www.youtube.com/watch?v=TS01Xj8mMwQ)
 * jBuilder 初學者指南 #1 - [製作 jBoard 頁面](https://www.youtube.com/watch?v=N1Rp2mCwv0c)
 * jBuilder 初學者指南 #2 - [Dock Builder](https://www.youtube.com/watch?v=eQV3zaiLxyY)
 
