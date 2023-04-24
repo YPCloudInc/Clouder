@@ -44,6 +44,10 @@ A service that display contents can be create by jBuilder & display your digital
 
 YPCloud YouTube Channel (CC available)
 
+- jBuilder Guide - ***[Basics](https://www.youtube.com/watch?v=3uBVg3pzuUc)***
+
+- jBuilder Guide - ***[page://tg](https://www.youtube.com/watch?v=TS01Xj8mMwQ)***
+
 - jBuilder Beginner's Guide #1 - ***[making jBoard pages](https://www.youtube.com/watch?v=N1Rp2mCwv0c)*** 
 
 - jBuilder Beginner's Guide #2 - ***[Dock Builder](https://www.youtube.com/watch?v=eQV3zaiLxyY&t=50s)*** 
