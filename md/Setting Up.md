@@ -85,7 +85,7 @@ GitLab is a DevOps software package that combines the ability to develop, secure
 * Reminders: 
     * Visit "[Clouder](https://github.com/YPCloudInc/Clouder/)" for more docs
     * Your code and other resources you develop will be stored in GitLab
-    * [Clone, Push, Pull](https://github.com/YPCloudInc/Clouder/blob/main/%E6%BC%A2%E8%AA%9E/md/git-%E5%85%8B%E9%9A%86.md)
+    * [Clone, Push, Pull](https://github.com/YPCloudInc/Clouder/blob/main/md/git-clone.md)
     * Markdown (md) Syntax Guide - [English](https://md.ypcloud.com/s/n5LsJP4fY) / [中文](https://md.ypcloud.com/s/ttxmIBQvQ) / [日本語](https://md.ypcloud.com/s/8GsXIVMQl)
 
 ---
