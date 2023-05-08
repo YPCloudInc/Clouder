@@ -12,7 +12,7 @@ you have been requested to:
 
 This md will help you with the task. 
 
-> [Procedure Applying YPCloud Inc.](https://www.ypcloud.com/#HR)
+> [Procedure Applying YPCloud Inc.](https://github.com/YPCloudInc/Clouder/blob/main/md/Apply.md)
 
 
 ### Platforms Guide ([LINK](Setting%20Up.md))
