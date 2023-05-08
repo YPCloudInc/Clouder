@@ -137,39 +137,31 @@ Five-day work week 週休二日
 
 **Job Description:**
 
-:::info
 - Develop and maintain system architecture and programming logic
 - Implement microservices and work with Kubernetes, Docker, and Node.JS
-:::
 
 **Job Requirements:**
 
-:::warning
 - Familiarity with algorithms and operating systems
 - Knowledge of at least one database language
 - Values software engineering
 - Passionate about programming, technical research, and problem-solving
 - Strong learning ability and high stress tolerance
 - Willingness to share and enjoy self-challenge
-:::
 
 **工作內容：**
 
-:::info
 - 開發 和 維護 系統架構 和 程式邏輯
 - 實現 微服務，並使用 Kubernetes、Docker 和 Node.JS
-:::
 
 **工作技能需求：**
 
-:::warning
 - 熟悉 演算法 和 作業操作系統
 - 至少熟悉一種 資料庫語言
 - 重視 軟體工程
 - 熱衷於 程式設計、技術鑽研 和 問題解決
 - 學習能力強 和 抗壓性高
 - 願意分享 和 喜歡自我挑戰
-:::
 
 > [Apply](#Apply-for-YPCloud-Inc) / [應徵](#應徵乒乓話網股份有限公司)
 
@@ -178,31 +170,23 @@ Five-day work week 週休二日
 
 **Job Description:**
 
-:::info
 - Maintain and operate cloud infrastructure
 - Establish and implement system operation automation
-:::
 
 **Job Requirements:**
 
-:::warning
 - Experience with cloud structure maintenance and operation
 - Ability to work with automation tools and technologies
-:::
 
 **工作內容：**
 
-:::info
 - 維護 和 操作 雲端基礎設施
 - 建立 和 實施 系統運維自動化
-:::
 
 **工作技能需求：**
 
-:::warning
 - 有雲端結構 維護 和 操作 經驗
 - 能使用 自動化工具 和 技術
-:::
 
 > [Apply](#Apply-for-YPCloud-Inc) / [應徵](#應徵乒乓話網股份有限公司)
 
@@ -211,14 +195,11 @@ Five-day work week 週休二日
 
 **Job Description:**
 
-:::info
 - Design and develop user interfaces using Vue.js
 - Collaborate with backend teams for data integration
-:::
 
 **Job Requirements:**
 
-:::warning
 - Possess the ability to integrate JavaScript (or jQuery) widgets
 - Proficiency in one of the following front-end frameworks
   > JavaScript, React, CSS, HTML, jQuery, Bootstrap etc.
@@ -227,18 +208,14 @@ Five-day work week 週休二日
   > e.g. color, spacing, line width, consistency etc.
 - Experience in interfacing with back-end data
 - Familiar with RWD (Responsive Web Design) and PWA (Progressive Web Apps)
-:::
 
 **工作內容：**
 
-:::info
 - 使用 Vue.js 設計 和 開發 使用者界面
 - 與後端團隊合作進行數據整合
-:::
 
 **工作技能需求：**
 
-:::warning
 - 有 整合 JavaScript ( 或 jQuery ) widget 能力
 - 精通以下任一前端框架
   > JavaScript、React、CSS、HTML、jQuery、Bootstrap 等
@@ -247,7 +224,6 @@ Five-day work week 週休二日
   > 如 顏色、間距、行寬、一致性 等
 - 有 與 後端 介接資料 經驗
 - 熟悉 RWD 和 PWA
-:::
 
 > [Apply](#Apply-for-YPCloud-Inc) / [應徵](#應徵乒乓話網股份有限公司)
 
@@ -256,31 +232,23 @@ Five-day work week 週休二日
 
 **Job Description:**
 
-:::info
 - Design service robots and define specifications
 - Plan and develop system design and application solutions
-:::
 
 **Job Requirements:**
 
-:::warning
 - Experience in system design and application planning
 - Knowledge of microservices architecture
-:::
 
 **工作內容：**
 
-:::info
 - 設計 服務機器人 並 制定規格
 - 規劃 和 開發 系統設計 和 應用解決方案
-:::
 
 **工作技能需求：**
 
-:::warning
 - 有 系統設計 和 應用方案規劃 經驗
 - 熟悉 微服務 架構
-:::
 
 > [Apply](#Apply-for-YPCloud-Inc) / [應徵](#應徵乒乓話網股份有限公司)
 
@@ -289,45 +257,35 @@ Five-day work week 週休二日
 
 **Job Description:**
 
-:::info
 - Customize research topics based on interests and expertise
 - Research in new software techniques and new tools
 - Handle software analysis, design, and programming
 - Conduct software testing and modification
-:::
 
 **Job Requirements:**
 
-:::warning
 - Major in computer-related fields is preferred
 - Ability to support sales department in handling customer needs
-:::
 
 **工作內容：**
 
-:::info
 - 根據 興趣 和 專長 定制研究主題
 - 研發 軟體新技術 與 新工具
 - 負責 軟體分析、設計 和 程式撰寫
 - 進行軟體 測試 和 修改
-:::
 
 **工作技能需求：**
 
-:::warning
 - 資訊相關科系尤佳
 - 能夠支援業務部門處理客戶需求
-:::
 
 > [Apply](#Apply-for-YPCloud-Inc) / [應徵](#應徵乒乓話網股份有限公司)
 
 ---
-## | International Sales Representative / 國際業務代表
 ## | International Sales Assistant / 國際業務助理
 
 **Job Description:**
 
-:::info
 - Participate in international exhibitions, press conferences, and event planning
   > e.g., Computex, etc.
 - Develop channel partners and assist in business model proposals
@@ -335,19 +293,15 @@ Five-day work week 週休二日
 - Organize events to promote products and manage social media
 - Documentation: 
   > e.g., press releases, powerpoints, demos, etc.
-:::
 
 **Job Requirements:**
 
-:::warning
 - Experience in software product and cloud services marketing planning
 - Strong communication and presentation skills
 - Cross-departmental coordination and R&D progress tracking
-:::
 
 **工作內容：**
 
-:::info
 - 參加 國際展覽、記者會 和 活動規劃
   > 如 Computex 等
 - 開發通路商 並 協助業務模式提案
@@ -355,15 +309,12 @@ Five-day work week 週休二日
 - 舉辦活動以推廣產品 並 管理社群媒體
 - 文件製作
   > 如 新聞稿、簡報、Demo 等
-:::
 
 **工作技能需求：**
 
-:::warning
 - 有 軟體產品 和 雲端服務 行銷規劃經驗
 - 擅長 溝通 和 簡報技巧
 - 跨部門協調 和 研發進度追踪能力
-:::
 
 > [Apply](#Apply-for-YPCloud-Inc) / [應徵](#應徵乒乓話網股份有限公司)
 
@@ -372,37 +323,29 @@ Five-day work week 週休二日
 
 **Job Description:**
 
-:::info
 - Learn about company-related information and edit customer requirements
 - Create engaging copy and support marketing activities
 - Interact with online communities and stay current with trends
-:::
 
 **Job Requirements:**
 
-:::warning
 - Strong learning, communication, and execution abilities
 - Strong creativity and communication skills
 - Familiar with media and online community platforms
 - Interested in staying updated with the latest internet trends
-:::
 
 **工作內容：**
 
-:::info
 - 了解公司相關資訊 並 編輯客戶需求
 - 創作吸引人的文案 並 支援行銷活動
 - 與網路社群互動 並 保持對網路趨勢關注
-:::
 
 **工作技能需求：**
 
-:::warning
 - 學習能力、溝通能力 及 執行力 佳
 - 強大的創意 和 溝通技巧
 - 熟悉媒體 和 網路社群平臺
 - 對網路新知保持關注的興趣
-:::
 
 > [Apply](#Apply-for-YPCloud-Inc) / [應徵](#應徵乒乓話網股份有限公司)
 
@@ -411,18 +354,15 @@ Five-day work week 週休二日
 
 **Job Description:**
 
-:::info
 - Design UI/UX using Figma
 - Implement responsive design and optimize autolayout
 - Integrate JavaScript (or jQuery) widgets and develop user interfaces
 - Design page layouts for mobile and tablet platforms
 - Collaborate with backend teams to integrate data
 - Follow development processes and standards
-:::
 
 **Job Requirements:**
 
-:::warning
 - Proficient in Figma, with experience using Adobe XD and Sketch
 - Attentive to user interface details
   > such as color, spacing, line width, and consistency
@@ -432,22 +372,18 @@ Five-day work week 週休二日
 - proactive, team-oriented, and responsible
 - Agile thinker with the ability to independently solve problems
 - high willingness to learn and embrace challenges
-:::
 
 **工作內容：**
 
-:::info
 - 使用 Figma 進行 UI/UX 設計
 - 進行響應式設計，並 優化自動佈局(Autolayout)
 - 整合 JavaScript(或jQuery) widget 並開發使用者介面
 - 負責手機和平板電腦的頁面排版設計
 - 與後端團隊協作進行資料整合
 - 遵守開發流程和規範
-:::
 
 **工作技能需求：**
 
-:::warning
 - 熟悉Figma，並有 Adobe XD 和 Sketch 使用經驗
 - 注重使用者介面細節
   > 如顏色、間距、行寬、一致性 等
@@ -457,14 +393,12 @@ Five-day work week 週休二日
 - 主動積極，具團隊精神和責任感
 - 思考敏捷，具獨立解決問題的能力
 - 學習意願高並勇於接受挑戰
-:::
 
 ---
 ## | Clouder Intern / 雲耕隊實習生
 
 **Job Description:** (Various roles available)
 
-:::info
 - **Cloud Engineer Intern**: 
   - Write algorithm simulation programs and partial prototypes;
 - **Information Management Intern**: 
@@ -476,18 +410,14 @@ Five-day work week 週休二日
   - Ability to develop clients, interested in a sales career;
 - **Media Editor Intern**: 
   - Interested in media editing.
-:::
 
 **Job Requirements:**
 
-:::warning
 - Interest and skills relevant to the specific internship role
 - Ability to work well in a team and learn new skills quickly
-:::
 
 **工作內容：**（各種職位可供選擇）
 
-:::info
 - **雲端工程實習生**：
   - 撰寫演算法模擬程式及部分 prototype；
 - **資訊管理實習生**：
@@ -498,14 +428,11 @@ Five-day work week 週休二日
   - 具開發客戶能力、職涯規劃喜歡業務工作；
 - **媒體創作實習生**：
   - 對媒體編輯感興趣
-:::
 
 **工作技能需求：**
 
-:::warning
 - 對特定實習角色感興趣 和 相關技能
 - 能夠在團隊中表現良好 並 迅速學習新技能
-:::
 
 > [Apply](#Apply-for-YPCloud-Inc) / [應徵](#應徵乒乓話網股份有限公司)
 
