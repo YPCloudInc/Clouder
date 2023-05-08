@@ -99,7 +99,7 @@ Creat 2 flowbots (low code programs) as listed above using fBuilder.
 
 # Clouder Guidebook
 
-[Hi Clouders!](https://github.com/YPCloudInc/Clouder/edit/main/README.md)
+[Hi Clouders!](https://github.com/YPCloudInc/Clouder)
 
 ---
 
