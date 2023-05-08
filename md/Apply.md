@@ -1,15 +1,15 @@
-| Job Opening                        | 職缺         | <img align="right" height="110" src="https://s3.ypcloud.com/hackmd/uploads/upload_da6bf93b2777e6c5cec9b337ed51e341.png"> |
-| ---------------------------------- | ------------ | -------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| Cloud Engineer                     | 雲端工程師   | [detail](#-Cloud-Engineer--雲端工程師)                                                                                                                         |
-| DevOps Engineer                    | 維運工程師   | [detail](#-DevOps-Engineer--維運工程師)                                                                                                                        |
-| Web Designer                       | 網頁設計師   | [detail](#-Web-Designer--網頁設計師)                                                                                                                           |
-| FlowBot Designer                   | 流程工程師   | [detail](#-FlowBot-Designer--流程工程師)                                                                                                                       |
-| Assistant Engineer                 | 助理工程師   | [detail](#-Assistant-Engineer--助理工程師)                                                                                                                     |
-| International Sales Representative | 國際業務代表 | [detail](#-International-Sales-Representative--國際業務代表)                                                                                                   |
-| International Sales Assistant      | 國際業務助理 | [detail](#-International-Sales-Assistant--國際業務助理)                                                                                                        |
-| Media Editor                       | 媒體創作     | [detail](#-Media-Editor--媒體創作)                                                                                                                             |
-| Figma Designer                     | Figma 設計師 | [detail](#-Figma-Designer--Figma-設計師)                                                                                                                       |
-| Clouder Intern                     | 雲耕隊實習生 | [detail](#-Clouder-Intern--雲耕隊實習生)                                                                                                                       |
+| Job Opening                        | 職缺         | |
+| ---------------------------------- | ----------- | -  |
+| Cloud Engineer                     | 雲端工程師    | [detail](#-Cloud-Engineer--雲端工程師) |
+| DevOps Engineer                    | 維運工程師    | [detail](#-DevOps-Engineer--維運工程師) |
+| Web Designer                       | 網頁設計師    | [detail](#-Web-Designer--網頁設計師) |
+| FlowBot Designer                   | 流程工程師    | [detail](#-FlowBot-Designer--流程工程師) |
+| Assistant Engineer                 | 助理工程師    | [detail](#-Assistant-Engineer--助理工程師) |
+| International Sales Representative | 國際業務代表  | [detail](#-International-Sales-Representative--國際業務代表) |
+| International Sales Assistant      | 國際業務助理  | [detail](#-International-Sales-Assistant--國際業務助理) |
+| Media Editor                       | 媒體創作     | [detail](#-Media-Editor--媒體創作) |
+| Figma Designer                     | Figma 設計師 | [detail](#-Figma-Designer--Figma-設計師) |
+| Clouder Intern                     | 雲耕隊實習生 | [detail](#-Clouder-Intern--雲耕隊實習生) |
 
 > [name= hr@ypcloud.com]
 ---
