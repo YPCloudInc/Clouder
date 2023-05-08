@@ -11,7 +11,7 @@
 | Figma Designer                     | Figma 設計師 | [detail](#-Figma-Designer--Figma-設計師) |
 | Clouder Intern                     | 雲耕隊實習生 | [detail](#-Clouder-Intern--雲耕隊實習生) |
 
-> [name= hr@ypcloud.com]
+> hr@ypcloud.com
 ---
 
 # Apply for YPCloud Inc.
@@ -440,4 +440,4 @@ Five-day work week 週休二日
 
 ---
 ###### tags: `HR`,`YPCloud`
-> [name=HR - Ruby Lai 賴壬暖]
+> HR - Ruby Lai 賴壬暖
