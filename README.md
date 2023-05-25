@@ -1,6 +1,6 @@
 # [Hi Clouders!](https://clouder.ypcloud.com/)
 
-[<img align="left" height="100" src="]https://s3.ypcloud.com/cms/xteam_bw_29a0cde870.png">](https://clouder.ypcloud.com/)
+[<img align="left" height="100" src="https://s3.ypcloud.com/cms/xteam_bw_29a0cde870.png">](https://clouder.ypcloud.com/)
 
 Welcome to the Clouders Community! 
 
