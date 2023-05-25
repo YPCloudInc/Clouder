@@ -103,7 +103,7 @@
 更多資訊在 [Ultrabook](https://github.com/motebus/ultrabook)
 ---
 
-[![](https://user-images.githubusercontent.com/116076967/198514847-13ff6bc1-893d-4f5d-9f0a-4efabbe2aded.jpeg)](https://clouder.ypcloud.com/)
+[![](https://s3.ypcloud.com/cms/abcd_b37589fb73.png)](https://clouder.ypcloud.com/)
 > 用您的名字取代「abc」
 
 [<img src="https://s3.ypcloud.com/cms/34_ff00f2689d.png" width=auto height=auto>](https://clouder.ypcloud.com/)
