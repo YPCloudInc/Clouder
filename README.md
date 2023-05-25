@@ -106,7 +106,7 @@ More info in [Ultrabook](https://github.com/motebus/ultrabook)
 [![](https://s3.ypcloud.com/cms/abcd_b37589fb73.png)](https://clouder.ypcloud.com/)
 > replace "abc" with your name
 
-[<img src="https://s3.ypcloud.com/cms/34_ff00f2689d.png" width=auto height=auto>](https://clouder.ypcloud.com/)
+[<img src="https://s3.ypcloud.com/cms/digi_36bca8b362.png" width=auto height=auto>](https://clouder.ypcloud.com/)
 
 ---
 ###### tags: `Clouder`,`YPCloud`,`Community` 
