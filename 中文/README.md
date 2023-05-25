@@ -106,7 +106,7 @@
 [![](https://s3.ypcloud.com/cms/abcd_b37589fb73.png)](https://clouder.ypcloud.com/)
 > 用您的名字取代「abc」
 
-[<img src="https://s3.ypcloud.com/cms/34_ff00f2689d.png" width=auto height=auto>](https://clouder.ypcloud.com/)
+[<img src="https://s3.ypcloud.com/cms/digi_36bca8b362.png" width=auto height=auto>](https://clouder.ypcloud.com/)
 
 ---
 ###### tags: `雲耕隊`,`乒乓話網`,`社群` 
