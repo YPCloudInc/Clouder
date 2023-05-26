@@ -1,6 +1,6 @@
 # [Hi 雲耕隊！](https://clouder.ypcloud.com/)
 
-[<img align="left" height="100" src="https://s3.ypcloud.com/cms/xteam_4cc38d10a3.png">](https://clouder.ypcloud.com/)
+[<img align="left" height="80" src="https://s3.ypcloud.com/cms/xteam_4cc38d10a3.png">](https://clouder.ypcloud.com/)
 
 歡迎來到雲耕隊社群！
 
