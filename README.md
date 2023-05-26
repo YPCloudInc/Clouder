@@ -1,6 +1,6 @@
 # [Hi Clouders!](https://clouder.ypcloud.com/)
 
-[<img align="left" height="100" src="https://s3.ypcloud.com/cms/xteam_4cc38d10a3.png">](https://clouder.ypcloud.com/)
+[<img align="left" height="80" src="https://s3.ypcloud.com/cms/xteam_4cc38d10a3.png">](https://clouder.ypcloud.com/)
 
 Welcome to the Clouders Community! 
 
@@ -64,21 +64,21 @@ A website deployment tool for publishing websites to live servers in minutes.
 
 ### [Jujue-App User Guide](https://github.com/motebus/ultrabook/blob/main/Ultranet%20Apps/jujue-app%20User%20Guide.md)
 
-[<img align="left" width="100" height="auto" src="https://s3.ypcloud.com/cms/jujue_c4af07ce65.png" />](https://jujue.app/browser)
+[<img align="left" width="80" height="auto" src="https://s3.ypcloud.com/cms/jujue_22d82b09f2.png" />](https://jujue.app/browser)
 
 #### Jujue.app
 The Mote Browser. 
 
 ### [jBoard](https://jboard.ypcloud.com/)
 
-[<img align="left" width="100" height="auto" src=https://s3.ypcloud.com/cms/jboard_46b6e7216a.png" />](https://jboard.ypcloud.com/)
+[<img align="left" width="80" height="auto" src=https://s3.ypcloud.com/cms/jboard_4521cc25a9.png" />](https://jboard.ypcloud.com/)
 
 #### jBoard
 A service that display contents can be create by jBuilder & display your digital dashboards and display boards from anywhere with jBoard
 
 ### [SmartScreen User Guide](https://github.com/motebus/ultrabook/blob/main/Ultranet%20Apps/SmartScreen%20User%20Guide.md)
 
-[<img align="left" width="100" height="auto" src="https://s3.ypcloud.com/cms/smartscreen_454d14d149.png" />](https://smartscreen.tv)
+[<img align="left" width="80" height="auto" src="https://s3.ypcloud.com/cms/smartscreen_70196759da.png" />](https://smartscreen.tv)
 
 #### SmartScreen
 A service that display contents can be manipulated by uBot by Node-Red, and @SmartScreenBot by Telegram
