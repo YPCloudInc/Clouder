@@ -64,21 +64,21 @@
 
 ### [Jujue-應用程式(App) 用戶指南](https://github.com/motebus/ultrabook/blob/main/Ultranet%20Apps/jujue-app%20User%20Guide.md)
 
-[<img align="left" width="100" height="auto" src="https://s3.ypcloud.com/cms/jujue_c4af07ce65.png" />](https://jujue.app/browser)
+[<img align="left" width="80" height="auto" src="https://s3.ypcloud.com/cms/jujue_22d82b09f2.png" />](https://jujue.app/browser)
 
 #### Jujue.app
 微塵瀏覽器。
 
 ### [jBoard](https://jboard.ypcloud.com/)
 
-[<img align="left" width="100" height="auto" src="https://s3.ypcloud.com/cms/jboard_46b6e7216a.png" />](https://jboard.ypcloud.com/)
+[<img align="left" width="80" height="auto" src="https://s3.ypcloud.com/cms/jboard_4521cc25a9.png" />](https://jboard.ypcloud.com/)
 
 #### jBoard
 透過 jBuilder 編輯創建顯示內容，並使用 jBoard 從任何地方顯示版面。
 
 ### [智慧螢幕(SmartScreen) 用戶指南](https://github.com/motebus/ultrabook/blob/main/Ultranet%20Apps/SmartScreen%20User%20Guide.md)
 
-[<img align="left" width="100" height="auto" src="https://s3.ypcloud.com/cms/smartscreen_454d14d149.png" />](https://smartscreen.tv)
+[<img align="left" width="80" height="auto" src="https://s3.ypcloud.com/cms/smartscreen_70196759da.png" />](https://smartscreen.tv)
 
 #### SmartScreen
 透過 Node-Red 的 uBot 及 Telegram 的 @SmartScreenBot 操作，編輯顯示內容。
