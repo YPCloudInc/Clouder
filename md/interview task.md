@@ -22,14 +22,14 @@ This md will help you with the task.
 
 ### [jBuilder User Guide](https://github.com/motebus/ultrabook/tree/main/Ultranet%20Apps/jBuilder)
 
-[<img align="left" height="70" src="https://i.imgur.com/p9jaFdK.png">](https://run.ypcloud.com/)
+[<img align="left" width="80" height="auto" src="https://s3.ypcloud.com/cms/jbuilder_77f7549dd3.png">](https://run.ypcloud.com/)
 
 #### jBuilder
 A web-based dashboard creator. Create dashboards for digital maintenance systems, presentations, interactive kiosks, customised websites and more.
 
 ### [jBoard](https://jboard.ypcloud.com/)
 
-[<img align="left" width="100" height="70" src="https://i.imgur.com/5rrq8ur.png" />](https://jboard.ypcloud.com/)
+[<img align="left" width="80" height="auto" src="https://s3.ypcloud.com/cms/jboard_4521cc25a9.png" />](https://jboard.ypcloud.com/)
 
 #### jBoard
 A service that display contents can be create by jBuilder & display your digital dashboards and display boards from anywhere with jBoard
@@ -83,7 +83,7 @@ YPCloud YouTube Channel (CC available)
 
 ### [fBuilder User Guide](https://github.com/motebus/ultrabook/tree/main/Ultranet%20Apps/fBuilder)
 
-[<img align="left" width="70" height="70" src="https://i.imgur.com/lWgj5Fr.jpg" />](https://run.ypcloud.com/)
+[<img align="left" width="80" height="auto" src="https://s3.ypcloud.com/cms/fbuilder_f947638caf.png" />](https://run.ypcloud.com/)
 
 #### fBuilder
 A flow-based visual programming tool for easily deploying microservices and creating IoT control management systems.
