@@ -105,6 +105,10 @@ Creat 2 flowbots (low code programs) as listed above using fBuilder.
 
 ## Clouder Checklist
 
+![](https://s3.ypcloud.com/cms/abcd_b37589fb73.png)
+
+![](https://s3.ypcloud.com/cms/34_ff00f2689d.png)
+
 | Ultra Builder | Tasks | Description |
 | -------- | -------- | -------- |
 | fBuilder | @@abc-twin | Clocking at 09:00 12:00 18:00 00:00 |
