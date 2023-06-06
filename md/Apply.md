@@ -1,4 +1,4 @@
-| Job Opening                        | 職缺         | |
+| Job Opening                        | 職缺         | [<img align="right" height="110" src="https://s3.ypcloud.com/cms/career_d63a9d2f8b.png">](https://md.ypcloud.com/s/SuiyPlyoj) |
 | ---------------------------------- | ----------- | -  |
 | Cloud Engineer                     | 雲端工程師    | [detail](#-Cloud-Engineer--雲端工程師) |
 | DevOps Engineer                    | 維運工程師    | [detail](#-DevOps-Engineer--維運工程師) |
@@ -437,7 +437,4 @@ Five-day work week 週休二日
 > [Apply](#Apply-for-YPCloud-Inc) / [應徵](#應徵乒乓話網股份有限公司)
 
 ---
-
----
 ###### tags: `HR`,`YPCloud`
-> HR - Ruby Lai 賴壬暖
