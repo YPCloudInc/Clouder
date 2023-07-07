@@ -23,6 +23,8 @@ If you are interested and available to work in a new digitalized era, submit you
 
 ([中文資訊](#應徵乒乓話網股份有限公司)) / ([Intern Handbook](https://s3.ypcloud.com/cms/Clouder_Hankbook_77f8e16025.pdf))
 
+(<a href="https://s3.ypcloud.com/cms/Clouder_Hankbook_77f8e16025.pdf" target="_blank">Intern Handbook</a>)
+
 ---
 ## Stage A - Application
 
