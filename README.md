@@ -103,7 +103,7 @@ A service that display contents can be manipulated by uBot by Node-Red, and @Sma
 More info in [Ultrabook](https://github.com/motebus/ultrabook)
 
 ---
-[![](https://s3.ypcloud.com/cms/abcd_b37589fb73.png)](https://clouder.ypcloud.com/)
+[![](https://s3.ypcloud.com/cms/12_courses_2d40e32881.png)](https://clouder.ypcloud.com/)
 > replace "abc" with your name
 
 [<img src="https://s3.ypcloud.com/cms/digi_36bca8b362.png" width=auto height=auto>](https://clouder.ypcloud.com/)
