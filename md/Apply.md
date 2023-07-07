@@ -21,7 +21,7 @@ YPCloud desires to bring the distributed cloud to the world and to share this pa
 We are always looking for fun, passionate and hard-working individuals to join the YP team. 
 If you are interested and available to work in a new digitalized era, submit your CV. 
 
-([中文資訊](#應徵乒乓話網股份有限公司)) / [Handbook](https://s3.ypcloud.com/cms/Clouder_Hankbook_77f8e16025.pdf)
+([中文資訊](#應徵乒乓話網股份有限公司)) / ([Intern Handbook](https://s3.ypcloud.com/cms/Clouder_Hankbook_77f8e16025.pdf))
 
 ---
 ## Stage A - Application
@@ -74,7 +74,7 @@ YPCloud期盼把分佈式雲端推向世界，並與任何欣賞數位化的人�
 我們一直在尋找有趣、熱情和勤奮的人加入YP團隊。 
 若您有興趣且願意在新的數位化時代工作，請提交您的簡歷。
 
-([English Info](#Apply-for-YPCloud-Inc.)) / [手冊](https://s3.ypcloud.com/cms/Clouder_Hankbook_77f8e16025.pdf)
+([English Info](#apply-for-ypcloud-inc)) / ([實習手冊](https://s3.ypcloud.com/cms/Clouder_Hankbook_77f8e16025.pdf))
 
 ---
 ## 壹 | 應徵階段
