@@ -3,7 +3,7 @@
 | Cloud Engineer                     | 雲端工程師    | [detail](#-Cloud-Engineer--雲端工程師) |
 | DevOps Engineer                    | 維運工程師    | [detail](#-DevOps-Engineer--維運工程師) |
 | Web Designer                       | 網頁設計師    | [detail](#-Web-Designer--網頁設計師) |
-| FlowBot Designer                   | 流程工程師    | [detail](#-FlowBot-Designer--流程工程師) |
+| Application Engineer               | 應用工程師    | [detail](#-Application-Engineer--應用工程師) |
 | Assistant Engineer                 | 助理工程師    | [detail](#-Assistant-Engineer--助理工程師) |
 | International Sales Representative | 國際業務代表  | [detail](#-International-Sales-Representative--國際業務代表) |
 | International Sales Assistant      | 國際業務助理  | [detail](#-International-Sales-Assistant--國際業務助理) |
@@ -230,11 +230,11 @@ Five-day work week 週休二日
 > [Apply](#Apply-for-YPCloud-Inc) / [應徵](#應徵乒乓話網股份有限公司)
 
 ---
-## | FlowBot Designer / 流程工程師
+## | Application Engineer / 應用工程師
 
 **Job Description:**
 
-- Design service robots and define specifications
+- Design service FlowBots and define specifications
 - Plan and develop system design and application solutions
 
 **Job Requirements:**
@@ -244,7 +244,7 @@ Five-day work week 週休二日
 
 **工作內容：**
 
-- 設計 服務機器人 並 制定規格
+- 設計 服務流程機器人 並 制定規格
 - 規劃 和 開發 系統設計 和 應用解決方案
 
 **工作技能需求：**
