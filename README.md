@@ -71,7 +71,7 @@ The Mote Browser.
 
 ### [jBoard](https://jboard.ypcloud.com/)
 
-[<img align="left" width="80" height="auto" src=https://s3.ypcloud.com/cms/jboard_4521cc25a9.png" />](https://jboard.ypcloud.com/)
+[<img align="left" width="80" height="auto" src="https://s3.ypcloud.com/cms/jboard_4521cc25a9.png" />](https://jboard.ypcloud.com/)
 
 #### jBoard
 A service that display contents can be create by jBuilder & display your digital dashboards and display boards from anywhere with jBoard
