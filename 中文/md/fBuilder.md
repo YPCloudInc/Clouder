@@ -19,11 +19,11 @@ Flow Builder (fBuilder) 是由 YPCloud 開發的低代碼編程環境，參考�
 
 ### FlowBot 指南 (範例)
 
-- [雙時鐘](https://github.com/YPCloudInc/Clouder/blob/main/md/twin.md)
+- [雙子打卡機器人 教學](https://github.com/YPCloudInc/Clouder/blob/main/%E4%B8%AD%E6%96%87/md/%E9%9B%99%E5%AD%90.md)
 
-- [聊天機器人](https://github.com/YPCloudInc/Clouder/blob/main/md/chatbot.md)
+- [聊天機器人 教學](https://github.com/YPCloudInc/Clouder/blob/main/%E4%B8%AD%E6%96%87/md/%E8%81%8A%E5%A4%A9%E6%A9%9F%E5%99%A8%E4%BA%BA.md)  
 
-- [表單機器人](https://github.com/YPCloudInc/Clouder/blob/main/md/form.md)
+- [表單 及 表單機器人 教學](https://github.com/YPCloudInc/Clouder/blob/main/md/form.md)
 
 ### [範例](https://github.com/motebus/ultrabook/blob/main/Ultranet%20Apps/fBuilder/Sample%20Flows/Readme.md)
 
