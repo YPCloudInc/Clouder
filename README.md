@@ -1,8 +1,10 @@
-# [Hi Clouders!](https://clouder.ypcloud.com/)
+# Hi Clouders!
 
-[<img align="left" height="80" src="https://s3.ypcloud.com/cms/xteam_4cc38d10a3.png">](https://clouder.ypcloud.com/)
+<img align="left" height="80" src="https://s3.ypcloud.com/cms/xteam_4cc38d10a3.png">
 
 Welcome to the Clouders Community! 
+
+![](https://m3.ypcloud.com/cms/clouder_c8b0955a81.png)
 
 Clouder is a worldwide community bringing you on the journey of learning & creating through low codes.
 
@@ -103,13 +105,12 @@ A service that display contents can be manipulated by uBot by Node-Red, and @Sma
 More info in [Ultrabook](https://github.com/motebus/ultrabook)
 
 ---
-[![](https://s3.ypcloud.com/cms/12_courses_2d40e32881.png)](https://clouder.ypcloud.com/)
+![](https://s3.ypcloud.com/cms/12_courses_2d40e32881.png)
 > replace "abc" with your name
 
-[<img src="https://s3.ypcloud.com/cms/digital_quotient_0b08c68a52.png" width=auto height=auto>](https://clouder.ypcloud.com/)
+![](https://s3.ypcloud.com/cms/digital_quotient_0b08c68a52.png)
 
 ---
 ###### tags: `Clouder`,`YPCloud`,`Community` 
 ---
 > [YPCloud Inc.](https://www.ypcloud.com)
-> [Clouder](https://clouder.ypcloud.com)
