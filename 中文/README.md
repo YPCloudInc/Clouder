@@ -1,8 +1,10 @@
-# [Hi 雲耕隊！](https://clouder.ypcloud.com/)
+# Hi 雲耕隊！
 
-[<img align="left" height="80" src="https://s3.ypcloud.com/cms/xteam_4cc38d10a3.png">](https://clouder.ypcloud.com/)
+<img align="left" height="80" src="https://s3.ypcloud.com/cms/xteam_4cc38d10a3.png">
 
 歡迎來到雲耕隊社群！
+
+![](https://m3.ypcloud.com/cms/clouder_c8b0955a81.png)
 
 科技農耕隊 邀請您一同踏上，透過低程式碼 學習和創造的旅程！
 
@@ -103,13 +105,12 @@
 更多資訊在 [Ultrabook](https://github.com/motebus/ultrabook)
 ---
 
-[![](https://s3.ypcloud.com/cms/abcd_b37589fb73.png)](https://clouder.ypcloud.com/)
+![](https://s3.ypcloud.com/cms/abcd_b37589fb73.png)
 > 用您的名字取代「abc」
 
-[<img src="https://s3.ypcloud.com/cms/digi_36bca8b362.png" width=auto height=auto>](https://clouder.ypcloud.com/)
+![](https://s3.ypcloud.com/cms/digi_36bca8b362.png)
 
 ---
 ###### tags: `雲耕隊`,`乒乓話網`,`社群` 
 ---
 > [乒乓話網股份有限公司](https://www.ypcloud.com)
-> [雲耕隊](https://clouder.ypcloud.com)
