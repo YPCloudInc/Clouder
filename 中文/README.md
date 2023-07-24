@@ -8,6 +8,9 @@
 
 科技農耕隊 邀請您一同踏上，透過低程式碼 學習和創造的旅程！
 
+- [雲耕隊課程](https://hackmd.io/@ypcloud-inc/skill)
+- [應徵實習](https://github.com/YPCloudInc/Clouder/blob/main/md/Apply.md)
+
 ---
 
 ## 工作區設置
