@@ -113,7 +113,7 @@ YPCloud期盼把分佈式雲端推向世界，並與任何欣賞數位化的人�
 使用 fBuilder 創建至少2個指南中列出的低程式碼。
   > -- [「fBuilder」使用者指南](https://github.com/YPCloudInc/Clouder/blob/main/%E4%B8%AD%E6%96%87/md/fBuilder.md)
 
-- [ ] 熟悉 [**Clouder** 工具](https://md.ypcloud.com/s/x2QXQKDcm)
+- [ ] 熟悉 [**Clouder** 工具](https://github.com/YPCloudInc/Clouder/blob/main/%E4%B8%AD%E6%96%87/md/%E9%9B%B2%E8%80%95%E9%9A%8A%E8%AA%B2%E7%A8%8B.md)
 
 ---
 ## 參 | 面試階段
