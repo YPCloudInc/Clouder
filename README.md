@@ -8,7 +8,7 @@ Welcome to the Clouders Community!
 
 Clouder is a worldwide community bringing you on the journey of learning & creating through low codes.
 
-- [Clouder Skills](https://hackmd.io/@ypcloud-inc/skill)
+- [Clouder Skills](https://github.com/YPCloudInc/Clouder/blob/main/md/skill.md)
 - [Apply Intern](https://github.com/YPCloudInc/Clouder/blob/main/md/Apply.md)
 
 ---
