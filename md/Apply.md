@@ -50,14 +50,14 @@ Enterprise technical information
 ### | YP Interview Test ([Guide](https://hackmd.io/@ypcloud-inc/skill))
 - [ ] **jBoard**
 Create a personal “.me” channel using jBuilder. 
-  >submit the generated URL to hr@ypcloud.com
-  > -- [jBuilder User Guide](https://hackmd.io/@ypcloud-inc/jbuilder) / - [FAQ](https://hackmd.io/@ypcloud-inc/faq)
+  > submit the generated URL to hr@ypcloud.com
+  > -- [jBuilder User Guide](https://github.com/motebus/ultrabook/tree/main/Ultranet%20Apps/jBuilder) / - [FAQ](https://github.com/motebus/ultrabook/blob/main/Ultranet%20Apps/jBuilder/FAQ.md)
 
 - [ ] **FlowBot**
 Creat at least 2 flowbots (low code programs) as listed in the guide using fBuilder.
-  > -- [fBuilder User Guide](https://hackmd.io/@ypcloud-inc/fbuilder)
+  > -- [fBuilder User Guide](https://github.com/motebus/ultrabook/tree/main/Ultranet%20Apps/fBuilder)
 
-- [ ] Familiarize yourself with [**Clouder** Tools](https://hackmd.io/@ypcloud-inc/clouder)
+- [ ] Familiarize yourself with [**Clouder** Tools](https://github.com/YPCloudInc/Clouder/blob/main/md/skill.md)
 
 ---
 ## Stage C - Interview
@@ -106,7 +106,7 @@ YPCloud期盼把分佈式雲端推向世界，並與任何欣賞數位化的人�
 
 使用 jBuilder 創建個人“.me” 頻道，
   >將生成的 URL 提交至 hr@ypcloud.com 
-  > -- [「jBuilder」使用者指南](https://md.ypcloud.com/s/1-DMJqYTT) /  [FAQ](https://md.ypcloud.com/s/ZD6HFP9Wf)
+  > -- [「jBuilder」使用者指南](https://github.com/YPCloudInc/Clouder/blob/main/%E4%B8%AD%E6%96%87/md/jBuilder.md) /  [FAQ](https://github.com/motebus/ultrabook/blob/main/Ultranet%20Apps/jBuilder/FAQ.md)
 
 - [ ] **FlowBot**
 
