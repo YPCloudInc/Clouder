@@ -47,7 +47,7 @@ Enterprise technical information
 ### | Communication Platform
 - [ ] [Telegram](https://t.me/ypcloud_career) (HR) 
 
-### | YP Interview Test ([Guide](https://hackmd.io/@ypcloud-inc/skill))
+### | YP Interview Test ([Guide](https://github.com/YPCloudInc/Clouder/blob/main/md/skill.md))
 - [ ] **jBoard**
 Create a personal “.me” channel using jBuilder. 
   > submit the generated URL to hr@ypcloud.com
@@ -100,7 +100,7 @@ YPCloud期盼把分佈式雲端推向世界，並與任何欣賞數位化的人�
 ### | 通訊平臺
 - [ ] [Telegram](https://t.me/ypcloud_career) (HR) 
 
-### | YP 應徵測驗 ([指引](https://md.ypcloud.com/s/cRyHRFIS1))
+### | YP 應徵測驗 ([指引](https://github.com/YPCloudInc/Clouder/blob/main/%E4%B8%AD%E6%96%87/md/%E9%9B%B2%E8%80%95%E9%9A%8A%E8%AA%B2%E7%A8%8B.md))
 
   - [ ] **jBoard**
 
