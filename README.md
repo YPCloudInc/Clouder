@@ -45,7 +45,7 @@ A flow-based visual programming tool for easily deploying microservices and crea
 #### jBuilder
 A web-based dashboard creator. Create dashboards for digital maintenance systems, presentations, interactive kiosks, customised websites and more.
 
-### [iBuilder AI Market Guide](md/aim.md)
+### [iBuilder User Guide](md/iBuilder.md)
 
 [<img align="left" width="80" height="auto" src="https://s3.ypcloud.com/cms/ibuilder_b759286a75.png">](https://run.ypcloud.com/)
 
@@ -53,7 +53,7 @@ A web-based dashboard creator. Create dashboards for digital maintenance systems
 A cloud-hosted Jupyter Notebook service with integrations for AI Models. 
 
 - SOP Creating AI Models 
-  - [iBuilder](md/iBuilder.md)
+  - [AI Market](md/aim.md)
   - [TWCC](md/TWCC.md)
 
 ### [pBuilder User Guide](https://github.com/motebus/ultrabook/blob/main/Ultranet%20Apps/pBuilder%20User%20Guide.md)
