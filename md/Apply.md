@@ -2,17 +2,17 @@
 
 || Job Opening | 職缺 | [<img align="right" height="110" src="https://s3.ypcloud.com/cms/career_d63a9d2f8b.png">](https://md.ypcloud.com/s/SuiyPlyoj) |
 | --- | --- | --- | --- |
-| A | Cloud Engineer | 雲端工程師 | [detail](#-Cloud-Engineer--雲端工程師) |
-| A | Application Engineer | 應用工程師 | [detail](#-Application-Engineer--應用工程師) |
-| B | DevOps Engineer | 維運工程師 | [detail](#-DevOps-Engineer--維運工程師) |
-| B | Assistant Engineer | 助理工程師 | [detail](#-Assistant-Engineer--助理工程師) |
-| C | B2P Marketing | 行銷 | [detail](#-B2P-Marketing--行銷) |
-| D | International Sales Representative | 國際業務代表 | [detail](#-International-Sales-Representative--國際業務代表) |
-| D | International Sales Assistant | 國際業務助理 | [detail](#-International-Sales-Assistant--國際業務助理) |
-| E | UX Designer | UX 設計師 | [detail](#-UX-Designer--UX-設計師) |
-| E | Web Developer | 網頁設計師 | [detail](#-Web-Developer--網頁設計師) |
-| E | Miki Editor | 媒體創作 | [detail](#-Miki-Editor--媒體創作) |
-| F | Clouder Intern | 雲耕隊實習生 | [detail](#-Clouder-Intern--雲耕隊實習生) |
+| A1 | Cloud Engineer | 雲端工程師 | [detail](#-Cloud-Engineer--雲端工程師) |
+| A2 | Application Engineer | 應用工程師 | [detail](#-Application-Engineer--應用工程師) |
+| B1 | DevOps Engineer | 維運工程師 | [detail](#-DevOps-Engineer--維運工程師) |
+| B2 | Assistant Engineer | 助理工程師 | [detail](#-Assistant-Engineer--助理工程師) |
+| C1 | B2P Marketing | 行銷 | [detail](#-B2P-Marketing--行銷) |
+| D1 | International Sales Representative | 國際業務代表 | [detail](#-International-Sales-Representative--國際業務代表) |
+| D2 | International Sales Assistant | 國際業務助理 | [detail](#-International-Sales-Assistant--國際業務助理) |
+| E1 | UX Designer | UX 設計師 | [detail](#-UX-Designer--UX-設計師) |
+| E2 | Web Developer | 網頁設計師 | [detail](#-Web-Developer--網頁設計師) |
+| E3 | Miki Editor | 媒體創作 | [detail](#-Miki-Editor--媒體創作) |
+| F1 | Clouder Intern | 雲耕隊實習生 | [detail](#-Clouder-Intern--雲耕隊實習生) |
 
 > [name= hr@ypcloud.com]
 ---
@@ -47,17 +47,27 @@ Enterprise technical information
 ### | Communication Platform
 - [ ] [Telegram](https://t.me/ypcloud_career) (HR) 
 
-### | YP Interview Test ([Guide](https://github.com/YPCloudInc/Clouder/blob/main/md/skill.md))
+### | YP Interview Test
+
+As part of your YP interview process, 
+you have been requested to:
+
+- familiarize yourself with Clouder Tools;
+- creat at least 2 FlowBots (low code programs) using fBuilder;
+- create your personal ".me" jBoard channel using jBuilder.
+
+Refer to courses 1 to 7 in the [Clouder Course](https://github.com/YPCloudInc/Clouder/blob/main/md/skill.md), this md will help you with the task. 
+
+- [ ] Familiarize yourself with [**Clouder** Tools](https://github.com/YPCloudInc/Clouder/blob/main/md/skill.md)
+
+- [ ] **FlowBot**
+Create at least 2 flowbots (low code programs) as listed in the guide using fBuilder.
+  > -- [fBuilder User Guide](https://github.com/motebus/ultrabook/tree/main/Ultranet%20Apps/fBuilder)
+
 - [ ] **jBoard**
 Create a personal “.me” channel using jBuilder. 
   > submit the generated URL to hr@ypcloud.com
   > -- [jBuilder User Guide](https://github.com/motebus/ultrabook/tree/main/Ultranet%20Apps/jBuilder) / - [FAQ](https://github.com/motebus/ultrabook/blob/main/Ultranet%20Apps/jBuilder/FAQ.md)
-
-- [ ] **FlowBot**
-Creat at least 2 flowbots (low code programs) as listed in the guide using fBuilder.
-  > -- [fBuilder User Guide](https://github.com/motebus/ultrabook/tree/main/Ultranet%20Apps/fBuilder)
-
-- [ ] Familiarize yourself with [**Clouder** Tools](https://github.com/YPCloudInc/Clouder/blob/main/md/skill.md)
 
 ---
 ## Stage C - Interview
@@ -100,20 +110,29 @@ YPCloud期盼把分佈式雲端推向世界，並與任何欣賞數位化的人�
 ### | 通訊平臺
 - [ ] [Telegram](https://t.me/ypcloud_career) (HR) 
 
-### | YP 應徵測驗 ([指引](https://github.com/YPCloudInc/Clouder/blob/main/%E4%B8%AD%E6%96%87/md/%E9%9B%B2%E8%80%95%E9%9A%8A%E8%AA%B2%E7%A8%8B.md))
+### | YP 應徵測驗
 
-  - [ ] **jBoard**
+作為乒乓話網應徵測試的一部分，
+您需要：
 
-使用 jBuilder 創建個人“.me” 頻道，
-  >將生成的 URL 提交至 hr@ypcloud.com 
-  > -- [「jBuilder」使用者指南](https://github.com/YPCloudInc/Clouder/blob/main/%E4%B8%AD%E6%96%87/md/jBuilder.md) /  [FAQ](https://github.com/motebus/ultrabook/blob/main/Ultranet%20Apps/jBuilder/FAQ.md)
+- 熟悉 Clouder 工具；
+- 使用 fBuilder 創建 2 個 FlowBot (低程式碼程序) ；
+- 使用 jBuilder 創建您的個人「.me」 jBoard 頻道。
+
+請參閱 [雲耕隊課程](https://github.com/YPCloudInc/Clouder/blob/main/%E4%B8%AD%E6%96%87/md/%E9%9B%B2%E8%80%95%E9%9A%8A%E8%AA%B2%E7%A8%8B.md) 第 1 至 7 課，此 md 檔將協助您完成任務。
+
+- [ ] 熟悉 [**Clouder** 工具](https://github.com/YPCloudInc/Clouder/blob/main/%E4%B8%AD%E6%96%87/md/%E9%9B%B2%E8%80%95%E9%9A%8A%E8%AA%B2%E7%A8%8B.md)
 
 - [ ] **FlowBot**
 
 使用 fBuilder 創建至少2個指南中列出的低程式碼。
   > -- [「fBuilder」使用者指南](https://github.com/YPCloudInc/Clouder/blob/main/%E4%B8%AD%E6%96%87/md/fBuilder.md)
 
-- [ ] 熟悉 [**Clouder** 工具](https://github.com/YPCloudInc/Clouder/blob/main/%E4%B8%AD%E6%96%87/md/%E9%9B%B2%E8%80%95%E9%9A%8A%E8%AA%B2%E7%A8%8B.md)
+- [ ] **jBoard**
+
+使用 jBuilder 創建個人“.me” 頻道，
+  >將生成的 URL 提交至 hr@ypcloud.com 
+  > -- [「jBuilder」使用者指南](https://github.com/YPCloudInc/Clouder/blob/main/%E4%B8%AD%E6%96%87/md/jBuilder.md) /  [FAQ](https://github.com/motebus/ultrabook/blob/main/Ultranet%20Apps/jBuilder/FAQ.md)
 
 ---
 ## 參 | 面試階段
