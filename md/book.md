@@ -38,7 +38,6 @@
 | 2 | Gwork            | https://github.com/YPCloudInc/Clouder/blob/main/md/gwork.md |
 | 3 | By Way           | https://github.com/YPCloudInc/Clouder/blob/main/md/byway.md |
 | 4 | Low Code         | https://github.com/YPCloudInc/Clouder/blob/main/md/lowcode.md |
-| 5 | Outline          | https://github.com/YPCloudInc/Clouder/blob/main/md/outline.md |
 
 ---
 
@@ -82,7 +81,6 @@
 | 2 | 協作      | https://github.com/YPCloudInc/Clouder/blob/main/md/gwork.md |
 | 3 | 順道      | https://github.com/YPCloudInc/Clouder/blob/main/md/byway.md |
 | 4 | 低程式碼  | https://github.com/YPCloudInc/Clouder/blob/main/md/lowcode.md |
-| 5 | 課綱      | https://github.com/YPCloudInc/Clouder/blob/main/md/outline.md |
 
 ---
 ###### tags: `Clouder`
