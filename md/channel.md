@@ -15,15 +15,15 @@ and save it as "ABC.me" (replace "ABC" with your name)
 e.g. https://jboard.ypcloud.com/?q=ABC.me
 
 **Access jBuilder**
-- Create your ***[YP Account](https://hackmd.io/@ypcloud-inc/setting-up#-YP-Account)***
+- Create your ***[YP Account](Setting%20Up.md)***
 - Visit ***[jBuilder](https://jbuilder.ypcloud.com)***
 
 **Recommendations**
 - Have at least 3 pages on your jBoard. 
-- [Basic steps](https://hackmd.io/@ypcloud-inc/steps)
+- [Basic steps](https://github.com/motebus/ultrabook/blob/main/Ultranet%20Apps/jBuilder/Process%20of%20making%20a%20jBoard.md)
 
 ---
 <img align="left" height="40" src="https://m3.ypcloud.com/cms/jdi_cards_clouder_cms_6eae937bb7.png"> [Clouder Book](book.md)
 
 ###### tags: `guide`
-> [jBuilder User Guide](https://hackmd.io/@ypcloud-inc/jbuilder)
+> [jBuilder User Guide](https://github.com/motebus/ultrabook/tree/main/Ultranet%20Apps/jBuilder)
