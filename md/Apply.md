@@ -58,7 +58,7 @@ you have been requested to:
 
 Refer to courses 1 to 7 in the [Clouder Course](https://github.com/YPCloudInc/Clouder/blob/main/md/skill.md), this md will help you with the task. 
 
-- [ ] Familiarize yourself with [**Clouder** Tools](https://github.com/YPCloudInc/Clouder/blob/main/md/skill.md)
+- [ ] Familiarize yourself with [**Clouder** Tools](https://github.com/YPCloudInc/Clouder/blob/main/README.md)
 
 - [ ] **FlowBot**
 Create at least 2 flowbots (low code programs) as listed in the guide using fBuilder.
@@ -119,20 +119,20 @@ YPCloud期盼把分佈式雲端推向世界，並與任何欣賞數位化的人�
 - 使用 fBuilder 創建 2 個 FlowBot (低程式碼程序) ；
 - 使用 jBuilder 創建您的個人「.me」 jBoard 頻道。
 
-請參閱 [雲耕隊課程](https://github.com/YPCloudInc/Clouder/blob/main/%E4%B8%AD%E6%96%87/md/%E9%9B%B2%E8%80%95%E9%9A%8A%E8%AA%B2%E7%A8%8B.md) 第 1 至 7 課，此 md 檔將協助您完成任務。
+請參閱 [雲耕隊課程](https://github.com/YPCloudInc/Clouder/blob/main/中文/md/雲耕隊課程.md) 第 1 至 7 課，此 md 檔將協助您完成任務。
 
-- [ ] 熟悉 [**Clouder** 工具](https://github.com/YPCloudInc/Clouder/blob/main/%E4%B8%AD%E6%96%87/md/%E9%9B%B2%E8%80%95%E9%9A%8A%E8%AA%B2%E7%A8%8B.md)
+- [ ] 熟悉 [**Clouder** 工具](https://github.com/YPCloudInc/Clouder/blob/main/中文/README.md)
 
 - [ ] **FlowBot**
 
 使用 fBuilder 創建至少2個指南中列出的低程式碼。
-  > -- [「fBuilder」使用者指南](https://github.com/YPCloudInc/Clouder/blob/main/%E4%B8%AD%E6%96%87/md/fBuilder.md)
+  > -- [「fBuilder」使用者指南](https://github.com/YPCloudInc/Clouder/blob/main/中文/md/fBuilder.md)
 
 - [ ] **jBoard**
 
 使用 jBuilder 創建個人“.me” 頻道，
   >將生成的 URL 提交至 hr@ypcloud.com 
-  > -- [「jBuilder」使用者指南](https://github.com/YPCloudInc/Clouder/blob/main/%E4%B8%AD%E6%96%87/md/jBuilder.md) /  [FAQ](https://github.com/motebus/ultrabook/blob/main/Ultranet%20Apps/jBuilder/FAQ.md)
+  > -- [「jBuilder」使用者指南](https://github.com/YPCloudInc/Clouder/blob/main/中文/md/jBuilder.md) /  [FAQ](https://github.com/motebus/ultrabook/blob/main/Ultranet%20Apps/jBuilder/FAQ.md)
 
 ---
 ## 參 | 面試階段
