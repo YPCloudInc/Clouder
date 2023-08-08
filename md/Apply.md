@@ -33,6 +33,8 @@ If you are interested and available to work in a new digitalized era, submit you
 - [ ] Email - hr@ypcloud.com
 > Title：「Apply | [job application] - [name]」
 
+- [ ] Application Form - https://tally.so/r/n99WjV
+
 ### | Information Platform
 
 - [ ] [Facebook](https://fb.com/ypcloud) (Clouder) 
@@ -95,6 +97,8 @@ YPCloud期盼把分佈式雲端推向世界，並與任何欣賞數位化的人�
 ### | 提交履歷
 - [ ] Email - hr@ypcloud.com
 > 標題：「應徵 | [應徵職位] - [姓名]」
+
+- [ ] 應徵表單 - https://tally.so/r/n99WjV
 
 ### | 資訊平臺 
 
