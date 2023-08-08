@@ -2,16 +2,16 @@
 
 || Job Opening | 職缺 | [<img align="right" height="110" src="https://m3.ypcloud.com/cms/career_d63a9d2f8b.png">](https://md.ypcloud.com/s/SuiyPlyoj) |
 | --- | --- | --- | --- |
-| A1 | Cloud Engineer | 雲端工程師 | [detail](#-Cloud-Engineer--雲端工程師) |
-| A2 | Application Engineer | 應用工程師 | [detail](#-Application-Engineer--應用工程師) |
-| B1 | DevOps Engineer | 維運工程師 | [detail](#-DevOps-Engineer--維運工程師) |
+| A1 | Cloud Engineer | 雲端系統工程師 | [detail](#-Cloud-Engineer--雲端系統工程師) |
+| A2 | Application Engineer | 系統應用工程師 | [detail](#-Application-Engineer--系統應用工程師) |
+| B1 | AI Ops Engineer | 智慧維運工程師 | [detail](#-AI-Ops-Engineer--智慧維運工程師) |
 | B2 | Assistant Engineer | 助理工程師 | [detail](#-Assistant-Engineer--助理工程師) |
-| C1 | B2P Marketing | 行銷 | [detail](#-B2P-Marketing--行銷) |
-| D1 | International Sales Representative | 國際業務代表 | [detail](#-International-Sales-Representative--國際業務代表) |
-| D2 | International Sales Assistant | 國際業務助理 | [detail](#-International-Sales-Assistant--國際業務助理) |
-| E1 | UX Designer | UX 設計師 | [detail](#-UX-Designer--UX-設計師) |
-| E2 | Web Developer | 網頁設計師 | [detail](#-Web-Developer--網頁設計師) |
-| E3 | Miki Editor | 媒體創作 | [detail](#-Miki-Editor--媒體創作) |
+| C1 | Web3 Marketing | 行銷企劃專員 | [detail](#-Web3-Marketing--行銷企劃專員) |
+| D1 | International Sales | 國際業務 | [detail](#-International-Sales--國際業務) |
+| D2 | Sales Assistant | 業務助理 | [detail](#-Sales-Assistant--業務助理) |
+| E1 | UX/UI Designer | UX/UI 設計師 | [detail](#-UXUI-Designer--UXUI-設計師) |
+| E2 | Web Developer | Web 前端工程師 | [detail](#-Web-Developer--網頁開發工程師) |
+| E3 | Miki Editor | 媒體小編 | [detail](#-Miki-Editor--媒體小編) |
 | F1 | Clouder Intern | 雲耕隊實習生 | [detail](#-Clouder-Intern--雲耕隊實習生) |
 
 > [name= hr@ypcloud.com]
@@ -156,7 +156,7 @@ Time: 09:00 - 18:00 Taipei Time 臺北時間
 Five-day work week 週休二日
 
 ---
-## | Cloud Engineer / 雲端工程師
+## | Cloud Engineer / 雲端系統工程師
 
 **工作內容：**
 
@@ -189,7 +189,7 @@ Five-day work week 週休二日
 > [Apply](#Apply-for-YPCloud-Inc) / [應徵](#應徵乒乓話網股份有限公司)
 
 ---
-## | Application Engineer / 應用工程師
+## | Application Engineer / 系統應用工程師
 
 **工作內容：**
 
@@ -214,7 +214,7 @@ Five-day work week 週休二日
 > [Apply](#Apply-for-YPCloud-Inc) / [應徵](#應徵乒乓話網股份有限公司)
 
 ---
-## | DevOps Engineer / 維運工程師
+## | AI Ops Engineer / 智慧維運工程師
 
 **工作內容：**
 
@@ -268,23 +268,51 @@ Five-day work week 週休二日
 > [Apply](#Apply-for-YPCloud-Inc) / [應徵](#應徵乒乓話網股份有限公司)
 
 ---
-## | B2P Marketing / 行銷
+## | Web3 Marketing / 行銷企劃專員
 
 **工作內容：**
 
+- 負責公司行銷活動策劃與執行
+- 與跨部門團隊合作，確保行銷活動順利進行
+- 了解並掌握 Web3、Nostr 等相關趨勢，並將其應用於行銷策略
+- 分析市場趨勢，進行競爭對手分析並制定相應行銷策略
+- 負責編寫、編輯與優化行銷相關內容
+  > 如 新聞稿、網站內容、社群媒體帖文 等
+- 設計和執行線上、線下活動，提升品牌知名度及用戶參與度
+
 **工作技能需求：**
+
+- 具有行銷經驗
+- 強大創意思考及策略規劃能力
+- 優秀溝通技巧，能與內外部團隊有效協作
+- 能獨立工作，對新技術和趨勢具有高度的敏感性和學習意願
+- 具備基本數據分析能力，能夠透過數據優化行銷策略
+- 流利中英文書寫和口語能力
 
 **Job Description:**
 
+- Responsible for planning and executing YP's marketing activities.
+- Collaborate with cross-departmental teams to ensure smooth marketing campaigns.
+- Understand and master trends in Web3, Nostr, etc., apply them to marketing strategies.
+- Analyze market trends, conduct competitor analysis, and formulate corresponding marketing strategies.
+- Responsible for writing, editing, and optimizing marketing-related content, 
+  > such as press releases, website content, social media posts, etc.
+- Design and execute online and offline events to increase brand awareness and user engagement.
+
 **Job Requirements:**
+
+- Experience in marketing.
+- Strong creative thinking and strategic planning abilities.
+- Excellent communication skills and the ability to effectively collaborate with internal and external teams.
+- Ability to work independently and have a high sensitivity and willingness to learn about new technologies and trends.
+- Basic data analysis skills and the ability to optimize marketing strategies through data.
+- Fluent in both English and Mandarin writing and speaking.
 
 > [Apply](#Apply-for-YPCloud-Inc) / [應徵](#應徵乒乓話網股份有限公司)
 
 ---
-## | International Sales Representative / 國際業務代表
-## | International Sales Assistant / 國際業務助理
-
-**Job Description:**
+## | International Sales / 國際業務
+## | Sales Assistant / 業務助理
 
 **工作內容：**
 
@@ -301,6 +329,8 @@ Five-day work week 週休二日
 - 有 軟體產品 和 雲端服務 行銷規劃經驗
 - 擅長 溝通 和 簡報技巧
 - 跨部門協調 和 研發進度追踪能力
+
+**Job Description:**
 
 - Participate in international exhibitions, press conferences, and event planning
   > e.g., Computex, etc.
@@ -319,7 +349,7 @@ Five-day work week 週休二日
 > [Apply](#Apply-for-YPCloud-Inc) / [應徵](#應徵乒乓話網股份有限公司)
 
 ---
-## | UX Designer / UX 設計師
+## | UX/UI Designer / UX/UI 設計師
 
 **工作內容：**
 
@@ -366,7 +396,7 @@ Five-day work week 週休二日
 > [Apply](#Apply-for-YPCloud-Inc) / [應徵](#應徵乒乓話網股份有限公司)
 
 ---
-## | Web Developer / 網頁設計師
+## | Web Developer / 網頁開發工程師
 
 **工作內容：**
 
@@ -403,7 +433,7 @@ Five-day work week 週休二日
 > [Apply](#Apply-for-YPCloud-Inc) / [應徵](#應徵乒乓話網股份有限公司)
 
 ---
-## | Miki Editor / 媒體創作
+## | Miki Editor / 媒體小編
 
 **工作內容：**
 
