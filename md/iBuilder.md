@@ -1,7 +1,11 @@
 iBuilder User Guide
 ===
 
-## **| YPCloud Run iBuilder**
+[<img align="left" width="80" height="auto" src="https://m3.ypcloud.com/cms/jdi_cards_ibuilder_cms_dd8d6b0db4.png">](https://run.ypcloud.com/)
+
+<br> Cloud-hosted Jupyter Notebook service with integrations for AI Models
+
+<br>
 
 [![](https://i.imgur.com/WzCDA1M.png)](https://run.ypcloud.com/)
 
